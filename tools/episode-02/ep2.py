@@ -521,8 +521,18 @@ def sitter(ctx, x, y, t, good=True):
     rrect(ctx, kx - 20, y + 260, 110, 34, 14); fill_stroke(ctx, RED, NAVY, 5)
     lean = 0 if good else .35
     ctx.save(); ctx.translate(x, hy); ctx.rotate(lean)
+    # back arm (behind torso)
+    capsule(ctx, -5, -235, 60, -120, 24, lerpc(TEAL, NAVY, .25), NAVY, 5)
+    capsule(ctx, 60, -120, 175, -150, 21, lerpc(TEAL, NAVY, .25), NAVY, 5)
+    stick(ctx, 175, -150, -0.25, 230, 16, t=t)
+    circle(ctx, 178, -150, 24, (0.93, .76, .6), NAVY, 5)
     rrect(ctx, -55, -280, 115, 280, 46); fill_stroke(ctx, TEAL, NAVY, 5)
     circle(ctx, 5, -350, 72, (1.0, .82, .66), NAVY, 5)
+    # front arm
+    capsule(ctx, 15, -225, 85, -110, 26, TEAL, NAVY, 5)
+    capsule(ctx, 85, -110, 205, -125, 23, TEAL, NAVY, 5)
+    stick(ctx, 205, -125, -0.2, 240, 18, t=t)
+    circle(ctx, 208, -125, 27, (1.0, .82, .66), NAVY, 5)
     ctx.new_path(); ctx.arc(5, -365, 74, math.pi, math.pi * 1.95); ctx.close_path(); fill_stroke(ctx, (.35, .2, .1), NAVY, 5)
     circle(ctx, 45, -350, 8, NAVY, None)
     if good:
@@ -547,8 +557,8 @@ def sc_bonus(ctx, t):      # 288.77 - 314.78
         label(ctx, "THE THRONE", 420, 720, 44, YELLOW, NAVY, scale=pop(t, tthr))
         if t > wt('thighs', 296):
             line(ctx, hx - 60, hy, kx + 120, hy, WHITE, 5, .8, dash=[16, 12])
-            label(ctx, "KNEES A LITTLE LOWER THAN HIPS", 1420, 330, 40, GREEN, WHITE, scale=pop(t, wt('knees', 297)), rot=.03)
-            check(ctx, 1420, 480, .9, p=prog(t, wt('knees', 297) + .3, .4))
+            label(ctx, "KNEES A LITTLE LOWER THAN HIPS", 1420, 460, 40, GREEN, WHITE, scale=pop(t, wt('knees', 297)), rot=.03)
+            check(ctx, 1420, 330, .9, p=prog(t, wt('knees', 297) + .3, .4))
         if t > wt('feet', 302): label(ctx, "FEET RESTING ON THE PEDALS", 1420, 640, 40, TEAL, WHITE, scale=pop(t, wt('feet', 302)))
     elif t < tcomf - .2:
         sitter(ctx, 760, 430, t, False)
@@ -558,7 +568,7 @@ def sc_bonus(ctx, t):      # 288.77 - 314.78
         if t > wt("won't", 308): label(ctx, "NO BOUNCE!", 1420, 730, 40, ORANGE, WHITE, scale=pop(t, wt("won't", 308)))
     else:
         sitter(ctx, 760, 430, t, True)
-        label(ctx, "COMFY = FASTER & HAPPIER!", 1420, 400, 44, GREEN, WHITE, scale=pop(t, tcomf), rot=-.03)
+        label(ctx, "COMFY = FASTER & HAPPIER!", 1420, 300, 44, GREEN, WHITE, scale=pop(t, tcomf), rot=-.03)
         for i in range(5): star(ctx, 1420 + 200 * math.cos(i * 1.256 + t), 560 + 90 * math.sin(i * 1.256 + t), 26 * pop(t, tcomf + .2), YELLOW, NAVY, 4)
 
 def sc_outro(ctx, t):      # 314.78 - end
