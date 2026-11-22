@@ -6,7 +6,7 @@ Format per episode: **one ~5-minute episode + three YouTube Shorts** (1080×1920
 
 1. How to hold drumsticks (and common mistakes) — ✅ DONE (episode, 3 Shorts, thumbnail)
 2. The drum kit explained: what each piece does — 🔄 IN PROGRESS (current focus)
-3. Your first rock beat in 10 minutes
+3. Your first rock beat in 5 minutes
 4. How to read music: the staff and notes
 5. Quarter, eighth, and half notes: counting rhythm
 6. Reading drum notation for beginners

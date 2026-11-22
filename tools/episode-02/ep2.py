@@ -156,6 +156,45 @@ def kick(ctx, x, y, s, t, m=0.0, boom=0.0, look=0.0, pedal=False, press=0.0):
         line(ctx, 0, 0, 0, -150, CHROME, 8); circle(ctx, 0, -160, 26, (1, .95, .9), NAVY, 4); ctx.restore()
         ctx.restore()
 
+def kick_side(ctx, x, y, t, press=0.0, sc=1.0):
+    """Side view inset: drummer sits to the RIGHT; batter head faces right; beater swings front-to-back into the head."""
+    if sc <= 0.01: return
+    ctx.save(); ctx.translate(x, y); sscale(ctx, sc, sc)
+    panel(ctx, 0, 0, 520, 470, WHITE)
+    text(ctx, "SIDE VIEW", 0, -195, 30, NAVY, None, shadow=False)
+    fl = 190                                   # floor line
+    line(ctx, -240, fl, 240, fl, (0.75, 0.78, 0.85), 4)
+    # drum shell seen from the side (round heads on left/right edges)
+    hx = -10                                   # batter head x (faces the drummer, to the right)
+    rrect(ctx, -200, -150, 190, 330, 18); fill_stroke(ctx, RED, NAVY, LW)
+    ellipse(ctx, hx, 15, 18, 165, (0.97, 0.97, 0.99), NAVY, 5)
+    ellipse(ctx, -200, 15, 14, 165, lerpc(RED, NAVY, .25), NAVY, 5)
+    for k in range(4): rrect(ctx, -185 + k * 45, -150, 14, 330, 4); fill_stroke(ctx, CHROME, NAVY, 2)
+    # pedal frame + axle
+    ax, ay = hx + 55, fl - 120
+    line(ctx, ax - 10, fl, ax - 10, ay, DARK, 8)
+    # footboard hinged at the heel (right); front end goes down when pressed
+    heel = (ax + 190, fl - 8)
+    fang = -0.42 + 0.30 * press
+    fx = heel[0] - 175 * math.cos(fang); fy = heel[1] + 175 * math.sin(fang)
+    capsule(ctx, heel[0], heel[1], fx, fy, 12, DARK, NAVY, 4)
+    line(ctx, fx, fy, ax + 18, ay + 12, (0.4, 0.42, 0.5), 4)   # chain/strap
+    # beater: rest leans back toward the drummer, press swings it forward into the head
+    a = lerp(0.55, -0.17, press)
+    L = 190
+    bxp, byp = ax + L * math.sin(a), ay - L * math.cos(a)
+    line(ctx, ax, ay, bxp, byp, CHROME, 9); line(ctx, ax, ay, bxp, byp, NAVY, 2)
+    circle(ctx, bxp, byp, 26, (1, .95, .9), NAVY, 5)
+    circle(ctx, ax, ay, 10, DARK, None)
+    if press > .85:
+        for k in range(3):
+            line(ctx, hx - 10, byp - 40 + 40 * k, hx - 60, byp - 55 + 55 * k, ORANGE, 6)
+    # foot hint arrow over the footboard
+    mx, my = (heel[0] + fx) / 2, (heel[1] + fy) / 2 - 55
+    ctx.new_path(); ctx.move_to(mx - 14, my - 34); ctx.line_to(mx + 14, my - 34); ctx.line_to(mx + 14, my - 6); ctx.line_to(mx + 28, my - 6)
+    ctx.line_to(mx, my + 20); ctx.line_to(mx - 28, my - 6); ctx.line_to(mx - 14, my - 6); ctx.close_path(); fill_stroke(ctx, YELLOW, NAVY, 4, alpha=.9)
+    ctx.restore()
+
 def hihat(ctx, x, y, s, t, open_=0.6, m=0.0, look=0.0):
     stand(ctx, x, y, y + 420 * s, s)
     gap = 10 + 60 * open_
@@ -339,8 +378,14 @@ def sc_snare(ctx, t):      # 74.48 - 110.18
             label(ctx, "RIGHT IN FRONT OF YOU", 960, 330, 44, WHITE, NAVY, scale=pop(t, wt('sits', 76)))
             label(ctx, "YOU'LL HIT IT THE MOST!", 960, 810, 44, GREEN, WHITE, scale=pop(t, wt('most.', 80)))
         if t >= ttry:
-            for k in [ttry, wt('bounce', 95)]:
-                stick(ctx, 1250, 330 - 80 * math.sin(math.pi * clamp(prog(t, k, .5))), 2.4, 380, 26, t=t)
+            # stick pivots at the butt; tip lands on the top head (~y 470) on each hit
+            hit = 0.0
+            for k in [ttry, wt('bounce', 95), thear]:
+                if t >= k: hit = max(hit, 1 - clamp(abs(t - k - .12) / .18))
+            bx, by = 1330, 250
+            ang_hit = math.atan2(468 - bnc - by, 1010 - bx)
+            ang = ang_hit - 0.55 * (1 - hit)
+            stick(ctx, bx, by, ang, math.hypot(1010 - bx, 468 - by) - 22, 26, t=t)
             sfx(ctx, t, thear, "CRACK!", 1450, 400, 80, RED, -.1, 1.4); rings(ctx, 960, 480, t, thear)
         if t > tclap:
             for i in range(2):
@@ -357,11 +402,12 @@ def sc_kick(ctx, t):       # 110.18 - 144.4
     if t >= tbc:
         for k in (wt('Boom,', 140), wt('boom,', 142)): bm = max(bm, max(0, 1 - prog(t, k, .5)) if t >= k else 0)
     if t < ttog - .2:
-        kick(ctx, 960, 520, 1.0 + .05 * bm, t, m=.7 * bm, boom=bm, pedal=t > wt('pedal.', 118), press=press)
-        if t > wt('right', 117): label(ctx, "RIGHT FOOT", 1450, 760, 44, ORANGE, WHITE, scale=pop(t, wt('right', 117)))
-        if t > trest: label(ctx, "PRESS THE PEDAL", 470, 760, 44, YELLOW, NAVY, scale=pop(t, trest))
+        kick(ctx, 1080, 520, 1.0 + .05 * bm, t, m=.7 * bm, boom=bm)
+        if t > wt('pedal.', 118) - .3: kick_side(ctx, 420, 560, t, press, pop(t, wt('pedal.', 118) - .3))
+        if t > wt('right', 117): label(ctx, "RIGHT FOOT", 1560, 760, 44, ORANGE, WHITE, scale=pop(t, wt('right', 117)))
+        if t > trest: label(ctx, "PRESS THE PEDAL", 420, 830, 40, YELLOW, NAVY, scale=pop(t, trest))
         if t > tboom:
-            rings(ctx, 960, 520, t, tboom, WHITE, 4, 200, 700, 1.2); sfx(ctx, t, tboom, "BOOM!", 1460, 380, 90, ORANGE, .06, 1.8)
+            rings(ctx, 1080, 520, t, tboom, WHITE, 4, 200, 700, 1.2); sfx(ctx, t, tboom, "BOOM!", 1580, 330, 90, ORANGE, .06, 1.8)
         if t > wt('chest.', 130): label(ctx, "FEEL IT IN YOUR CHEST!", 960, 330, 44, PINK, WHITE, scale=pop(t, wt('feel', 130)))
     else:
         # heart of the beat

@@ -947,22 +947,22 @@ Dialogue: 0,0:05:18.60,0:05:18.90,Fun,,0,0,0,,{\c&HFFFFFF&}Next {\c&HFFFFFF&}tim
 Dialogue: 0,0:05:18.90,0:05:19.04,Fun,,0,0,0,,{\c&HFFFFFF&}Next {\c&HFFFFFF&}time, {\c&HFFFFFF&}we'll {\c&HFFFFFF&}put\N{\c&HFFFFFF&}them {\c&HFFFFFF&}to {\c&HFFFFFF&}work {\c&H33DBFF&\bord7}and{\bord6} {\c&HFFE3CC&}play {\c&HFFE3CC&}your
 Dialogue: 0,0:05:19.04,0:05:19.28,Fun,,0,0,0,,{\c&HFFFFFF&}Next {\c&HFFFFFF&}time, {\c&HFFFFFF&}we'll {\c&HFFFFFF&}put\N{\c&HFFFFFF&}them {\c&HFFFFFF&}to {\c&HFFFFFF&}work {\c&HFFFFFF&}and {\c&H33DBFF&\bord7}play{\bord6} {\c&HFFE3CC&}your
 Dialogue: 0,0:05:19.28,0:05:19.56,Fun,,0,0,0,,{\c&HFFFFFF&}Next {\c&HFFFFFF&}time, {\c&HFFFFFF&}we'll {\c&HFFFFFF&}put\N{\c&HFFFFFF&}them {\c&HFFFFFF&}to {\c&HFFFFFF&}work {\c&HFFFFFF&}and {\c&HFFFFFF&}play {\c&H33DBFF&\bord7}your{\bord6}
-Dialogue: 0,0:05:19.56,0:05:19.96,Fun,,0,0,0,,{\fad(120,0)}{\c&H33DBFF&\bord7}very{\bord6} {\c&HFFE3CC&}first {\c&HFFE3CC&}rock {\c&HFFE3CC&}beat\N{\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}10 {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:19.96,0:05:20.34,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&H33DBFF&\bord7}first{\bord6} {\c&HFFE3CC&}rock {\c&HFFE3CC&}beat\N{\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}10 {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:20.34,0:05:20.62,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&H33DBFF&\bord7}rock{\bord6} {\c&HFFE3CC&}beat\N{\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}10 {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:20.62,0:05:21.08,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock {\c&H33DBFF&\bord7}beat{\bord6}\N{\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}10 {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:21.08,0:05:21.24,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock {\c&HFFFFFF&}beat\N{\c&H33DBFF&\bord7}in{\bord6} {\c&HFFE3CC&}just {\c&HFFE3CC&}10 {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:21.24,0:05:21.50,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock {\c&HFFFFFF&}beat\N{\c&HFFFFFF&}in {\c&H33DBFF&\bord7}just{\bord6} {\c&HFFE3CC&}10 {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:21.50,0:05:21.78,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock {\c&HFFFFFF&}beat\N{\c&HFFFFFF&}in {\c&HFFFFFF&}just {\c&H33DBFF&\bord7}10{\bord6} {\c&HFFE3CC&}minutes.
-Dialogue: 0,0:05:21.78,0:05:22.60,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock {\c&HFFFFFF&}beat\N{\c&HFFFFFF&}in {\c&HFFFFFF&}just {\c&HFFFFFF&}10 {\c&H33DBFF&\bord7}minutes.{\bord6}
-Dialogue: 0,0:05:22.60,0:05:23.24,Fun,,0,0,0,,{\fad(120,0)}{\c&H33DBFF&\bord7}Subscribe{\bord6} {\c&HFFE3CC&}so\N{\c&HFFE3CC&}you {\c&HFFE3CC&}don't {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
-Dialogue: 0,0:05:23.24,0:05:23.38,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&H33DBFF&\bord7}so{\bord6}\N{\c&HFFE3CC&}you {\c&HFFE3CC&}don't {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
-Dialogue: 0,0:05:23.38,0:05:23.56,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&H33DBFF&\bord7}you{\bord6} {\c&HFFE3CC&}don't {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
-Dialogue: 0,0:05:23.56,0:05:23.80,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&HFFFFFF&}you {\c&H33DBFF&\bord7}don't{\bord6} {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
-Dialogue: 0,0:05:23.80,0:05:24.04,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&HFFFFFF&}you {\c&HFFFFFF&}don't {\c&H33DBFF&\bord7}miss{\bord6} {\c&HFFE3CC&}it.
-Dialogue: 0,0:05:24.04,0:05:24.72,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&HFFFFFF&}you {\c&HFFFFFF&}don't {\c&HFFFFFF&}miss {\c&H33DBFF&\bord7}it.{\bord6}
-Dialogue: 0,0:05:24.72,0:05:24.86,Fun,,0,0,0,,{\fad(120,0)}{\c&H33DBFF&\bord7}See{\bord6} {\c&HFFE3CC&}you {\c&HFFE3CC&}next {\c&HFFE3CC&}time, {\c&HFFE3CC&}drummers.
-Dialogue: 0,0:05:24.86,0:05:24.98,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&H33DBFF&\bord7}you{\bord6} {\c&HFFE3CC&}next {\c&HFFE3CC&}time, {\c&HFFE3CC&}drummers.
-Dialogue: 0,0:05:24.98,0:05:25.24,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&HFFFFFF&}you {\c&H33DBFF&\bord7}next{\bord6} {\c&HFFE3CC&}time, {\c&HFFE3CC&}drummers.
-Dialogue: 0,0:05:25.24,0:05:25.52,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&HFFFFFF&}you {\c&HFFFFFF&}next {\c&H33DBFF&\bord7}time,{\bord6} {\c&HFFE3CC&}drummers.
-Dialogue: 0,0:05:25.52,0:05:26.70,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&HFFFFFF&}you {\c&HFFFFFF&}next {\c&HFFFFFF&}time, {\c&H33DBFF&\bord7}drummers.{\bord6}
+Dialogue: 0,0:05:19.56,0:05:19.96,Fun,,0,0,0,,{\fad(120,0)}{\c&H33DBFF&\bord7}very{\bord6} {\c&HFFE3CC&}first {\c&HFFE3CC&}rock\N{\c&HFFE3CC&}beat {\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}5 {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:19.96,0:05:20.34,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&H33DBFF&\bord7}first{\bord6} {\c&HFFE3CC&}rock\N{\c&HFFE3CC&}beat {\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}5 {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:20.34,0:05:20.62,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&H33DBFF&\bord7}rock{\bord6}\N{\c&HFFE3CC&}beat {\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}5 {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:20.62,0:05:21.08,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock\N{\c&H33DBFF&\bord7}beat{\bord6} {\c&HFFE3CC&}in {\c&HFFE3CC&}just {\c&HFFE3CC&}5 {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:21.08,0:05:21.24,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock\N{\c&HFFFFFF&}beat {\c&H33DBFF&\bord7}in{\bord6} {\c&HFFE3CC&}just {\c&HFFE3CC&}5 {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:21.24,0:05:21.44,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock\N{\c&HFFFFFF&}beat {\c&HFFFFFF&}in {\c&H33DBFF&\bord7}just{\bord6} {\c&HFFE3CC&}5 {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:21.44,0:05:21.70,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock\N{\c&HFFFFFF&}beat {\c&HFFFFFF&}in {\c&H33DBFF&\bord7}just{\bord6} {\c&H33DBFF&\bord7}5{\bord6} {\c&HFFE3CC&}minutes.
+Dialogue: 0,0:05:21.70,0:05:22.52,Fun,,0,0,0,,{\c&HFFFFFF&}very {\c&HFFFFFF&}first {\c&HFFFFFF&}rock\N{\c&HFFFFFF&}beat {\c&HFFFFFF&}in {\c&HFFFFFF&}just {\c&HFFFFFF&}5 {\c&H33DBFF&\bord7}minutes.{\bord6}
+Dialogue: 0,0:05:22.52,0:05:23.16,Fun,,0,0,0,,{\fad(120,0)}{\c&H33DBFF&\bord7}Subscribe{\bord6} {\c&HFFE3CC&}so\N{\c&HFFE3CC&}you {\c&HFFE3CC&}don't {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
+Dialogue: 0,0:05:23.16,0:05:23.30,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&H33DBFF&\bord7}so{\bord6}\N{\c&HFFE3CC&}you {\c&HFFE3CC&}don't {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
+Dialogue: 0,0:05:23.30,0:05:23.48,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&H33DBFF&\bord7}you{\bord6} {\c&HFFE3CC&}don't {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
+Dialogue: 0,0:05:23.48,0:05:23.72,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&HFFFFFF&}you {\c&H33DBFF&\bord7}don't{\bord6} {\c&HFFE3CC&}miss {\c&HFFE3CC&}it.
+Dialogue: 0,0:05:23.72,0:05:23.96,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&HFFFFFF&}you {\c&HFFFFFF&}don't {\c&H33DBFF&\bord7}miss{\bord6} {\c&HFFE3CC&}it.
+Dialogue: 0,0:05:23.96,0:05:24.64,Fun,,0,0,0,,{\c&HFFFFFF&}Subscribe {\c&HFFFFFF&}so\N{\c&HFFFFFF&}you {\c&HFFFFFF&}don't {\c&HFFFFFF&}miss {\c&H33DBFF&\bord7}it.{\bord6}
+Dialogue: 0,0:05:24.64,0:05:24.78,Fun,,0,0,0,,{\fad(120,0)}{\c&H33DBFF&\bord7}See{\bord6} {\c&HFFE3CC&}you {\c&HFFE3CC&}next {\c&HFFE3CC&}time, {\c&HFFE3CC&}drummers.
+Dialogue: 0,0:05:24.78,0:05:24.90,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&H33DBFF&\bord7}you{\bord6} {\c&HFFE3CC&}next {\c&HFFE3CC&}time, {\c&HFFE3CC&}drummers.
+Dialogue: 0,0:05:24.90,0:05:25.16,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&HFFFFFF&}you {\c&H33DBFF&\bord7}next{\bord6} {\c&HFFE3CC&}time, {\c&HFFE3CC&}drummers.
+Dialogue: 0,0:05:25.16,0:05:25.44,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&HFFFFFF&}you {\c&HFFFFFF&}next {\c&H33DBFF&\bord7}time,{\bord6} {\c&HFFE3CC&}drummers.
+Dialogue: 0,0:05:25.44,0:05:26.62,Fun,,0,0,0,,{\c&HFFFFFF&}See {\c&HFFFFFF&}you {\c&HFFFFFF&}next {\c&HFFFFFF&}time, {\c&H33DBFF&\bord7}drummers.{\bord6}
