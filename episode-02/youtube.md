@@ -48,3 +48,36 @@ drum kit explained, parts of a drum kit, drum set for beginners, beginner drum l
 - Audience: "Yes, it's made for kids" only if kids are the main audience (this turns off comments and some features); otherwise "No".
 - Altered/synthetic content: not needed for Episode 2 (fully animated cartoon, plus one AI photo in the 0:20 recap; tick it to be safe).
 - Add Lesson 1 as an end screen / card, and the Shorts' "Related video" link to this episode.
+
+---
+
+# Episode 2 Shorts: YouTube upload text
+
+## Short 1: "Boom and Crack"
+**Title:** The Secret Heartbeat in Every Song 🥁 #Shorts
+**Description:**
+Boom. Crack. Boom. Crack. 💥 That's the kick drum and the snare, the heartbeat hiding in almost every song you love!
+Full lesson: Drum Kit Explained in 5 Minutes (Lesson 2) 👉 (link)
+#Shorts #drums #drumlesson #kickdrum #snaredrum #learndrums #drumsforkids
+**Tags:** kick drum, snare drum, boom crack, drum beat, how drums work, beginner drums, drums for kids, learn drums, drum lesson
+
+## Short 2: "Secret Clock"
+**Title:** Every Band Has a Secret Clock ⏰ #Shorts
+**Description:**
+It's not on the wall... it's the hi-hat! Tick, tick, tick, tick: the drummer's secret clock that keeps the whole song on time. 🥁
+Full lesson: Drum Kit Explained in 5 Minutes (Lesson 2) 👉 (link)
+#Shorts #drums #hihat #drumlesson #learndrums #drumsforkids
+**Tags:** hi-hat, hi hat cymbal, what does a hi-hat do, drum kit parts, beginner drums, drums for kids, learn drums, drum lesson
+
+## Short 3: "Fireworks or Steady Ping?"
+**Title:** Crash vs. Ride Cymbal: Fireworks or Steady Ping? 🎆 #Shorts
+**Description:**
+The crash explodes like fireworks 🎆, the ride keeps a steady ping 🔔. Which cymbal would YOU hit? Tell me in the comments!
+Full lesson: Drum Kit Explained in 5 Minutes (Lesson 2) 👉 (link)
+#Shorts #drums #cymbals #crashcymbal #ridecymbal #drumlesson #learndrums
+**Tags:** crash cymbal, ride cymbal, crash vs ride, drum cymbals explained, beginner drums, drums for kids, learn drums, drum lesson
+
+## Posting tips
+- Set "Related video" on each Short to Episode 2.
+- Post them a day or two apart (e.g. before and after the episode) rather than all at once.
+- Comments: if the channel is set to "Made for kids", comments are off, so drop the "Tell me in the comments" line on Short 3.
