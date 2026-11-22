@@ -1,0 +1,6582 @@
+[
+{
+"plain": "Hi, and welcome!",
+"start": 0.0,
+"end": 1.76,
+"words": [
+{
+"text": "Hi,",
+"line": 0,
+"key": false,
+"start": 0.0,
+"end": 0.64
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 0.64,
+"end": 0.8
+},
+{
+"text": "welcome!",
+"line": 0,
+"key": false,
+"start": 0.8,
+"end": 1.76
+}
+]
+},
+{
+"plain": "Today we're going to learn how to hold a | pair of drumsticks the right way.",
+"start": 1.76,
+"end": 6.32,
+"words": [
+{
+"text": "Today",
+"line": 0,
+"key": false,
+"start": 1.76,
+"end": 2.32
+},
+{
+"text": "we're",
+"line": 0,
+"key": false,
+"start": 2.32,
+"end": 2.56
+},
+{
+"text": "going",
+"line": 0,
+"key": false,
+"start": 2.56,
+"end": 2.8
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 2.8,
+"end": 2.96
+},
+{
+"text": "learn",
+"line": 0,
+"key": false,
+"start": 2.96,
+"end": 3.2
+},
+{
+"text": "how",
+"line": 0,
+"key": false,
+"start": 3.2,
+"end": 3.44
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 3.44,
+"end": 3.6
+},
+{
+"text": "hold",
+"line": 0,
+"key": false,
+"start": 3.6,
+"end": 3.81
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 3.81,
+"end": 3.92
+},
+{
+"text": "pair",
+"line": 1,
+"key": false,
+"start": 3.92,
+"end": 4.12
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 4.12,
+"end": 4.24
+},
+{
+"text": "drumsticks",
+"line": 1,
+"key": false,
+"start": 4.24,
+"end": 5.0
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 5.0,
+"end": 5.2
+},
+{
+"text": "right",
+"line": 1,
+"key": false,
+"start": 5.2,
+"end": 5.52
+},
+{
+"text": "way.",
+"line": 1,
+"key": false,
+"start": 5.52,
+"end": 6.32
+}
+]
+},
+{
+"plain": "Don't worry if you've never | touched a drum before.",
+"start": 6.32,
+"end": 9.16,
+"words": [
+{
+"text": "Don't",
+"line": 0,
+"key": false,
+"start": 6.32,
+"end": 6.56
+},
+{
+"text": "worry",
+"line": 0,
+"key": false,
+"start": 6.56,
+"end": 6.88
+},
+{
+"text": "if",
+"line": 0,
+"key": false,
+"start": 6.88,
+"end": 7.04
+},
+{
+"text": "you've",
+"line": 0,
+"key": false,
+"start": 7.04,
+"end": 7.36
+},
+{
+"text": "never",
+"line": 0,
+"key": false,
+"start": 7.36,
+"end": 7.68
+},
+{
+"text": "touched",
+"line": 1,
+"key": false,
+"start": 7.68,
+"end": 7.96
+},
+{
+"text": "a",
+"line": 1,
+"key": false,
+"start": 7.96,
+"end": 8.08
+},
+{
+"text": "drum",
+"line": 1,
+"key": false,
+"start": 8.08,
+"end": 8.32
+},
+{
+"text": "before.",
+"line": 1,
+"key": false,
+"start": 8.32,
+"end": 9.16
+}
+]
+},
+{
+"plain": "We'll go one step at a time, and by | the end of this video,",
+"start": 9.16,
+"end": 12.64,
+"words": [
+{
+"text": "We'll",
+"line": 0,
+"key": false,
+"start": 9.16,
+"end": 9.36
+},
+{
+"text": "go",
+"line": 0,
+"key": false,
+"start": 9.36,
+"end": 9.68
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 9.68,
+"end": 9.84
+},
+{
+"text": "step",
+"line": 0,
+"key": false,
+"start": 9.84,
+"end": 10.12
+},
+{
+"text": "at",
+"line": 0,
+"key": false,
+"start": 10.12,
+"end": 10.2
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 10.2,
+"end": 10.32
+},
+{
+"text": "time,",
+"line": 0,
+"key": false,
+"start": 10.32,
+"end": 11.0
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 11.0,
+"end": 11.2
+},
+{
+"text": "by",
+"line": 0,
+"key": false,
+"start": 11.2,
+"end": 11.36
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 11.36,
+"end": 11.52
+},
+{
+"text": "end",
+"line": 1,
+"key": false,
+"start": 11.52,
+"end": 11.64
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 11.64,
+"end": 11.76
+},
+{
+"text": "this",
+"line": 1,
+"key": false,
+"start": 11.76,
+"end": 12.12
+},
+{
+"text": "video,",
+"line": 1,
+"key": false,
+"start": 12.12,
+"end": 12.64
+}
+]
+},
+{
+"plain": "you'll be ready to play your | very first beat.",
+"start": 12.64,
+"end": 15.6,
+"words": [
+{
+"text": "you'll",
+"line": 0,
+"key": false,
+"start": 12.64,
+"end": 12.8
+},
+{
+"text": "be",
+"line": 0,
+"key": false,
+"start": 12.8,
+"end": 12.96
+},
+{
+"text": "ready",
+"line": 0,
+"key": false,
+"start": 12.96,
+"end": 13.2
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 13.2,
+"end": 13.4
+},
+{
+"text": "play",
+"line": 0,
+"key": false,
+"start": 13.4,
+"end": 13.6
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 13.6,
+"end": 13.92
+},
+{
+"text": "very",
+"line": 1,
+"key": false,
+"start": 13.92,
+"end": 14.32
+},
+{
+"text": "first",
+"line": 1,
+"key": false,
+"start": 14.32,
+"end": 14.72
+},
+{
+"text": "beat.",
+"line": 1,
+"key": false,
+"start": 14.72,
+"end": 15.6
+}
+]
+},
+{
+"plain": "But first, a secret.",
+"start": 15.6,
+"end": 17.68,
+"words": [
+{
+"text": "But",
+"line": 0,
+"key": false,
+"start": 15.6,
+"end": 15.76
+},
+{
+"text": "first,",
+"line": 0,
+"key": false,
+"start": 15.76,
+"end": 16.48
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 16.48,
+"end": 16.64
+},
+{
+"text": "secret.",
+"line": 0,
+"key": false,
+"start": 16.64,
+"end": 17.68
+}
+]
+},
+{
+"plain": "Most beginners hold their | sticks way too tight.",
+"start": 17.68,
+"end": 20.88,
+"words": [
+{
+"text": "Most",
+"line": 0,
+"key": false,
+"start": 17.68,
+"end": 18.08
+},
+{
+"text": "beginners",
+"line": 0,
+"key": false,
+"start": 18.08,
+"end": 18.56
+},
+{
+"text": "hold",
+"line": 0,
+"key": false,
+"start": 18.56,
+"end": 18.84
+},
+{
+"text": "their",
+"line": 0,
+"key": false,
+"start": 18.84,
+"end": 19.24
+},
+{
+"text": "sticks",
+"line": 1,
+"key": false,
+"start": 19.24,
+"end": 19.68
+},
+{
+"text": "way",
+"line": 1,
+"key": false,
+"start": 19.68,
+"end": 19.96
+},
+{
+"text": "too",
+"line": 1,
+"key": false,
+"start": 19.96,
+"end": 20.44
+},
+{
+"text": "tight.",
+"line": 1,
+"key": true,
+"start": 20.44,
+"end": 20.88
+}
+]
+},
+{
+"plain": "That one habit can hurt your sound, your | speed, and even your wrists.",
+"start": 20.88,
+"end": 25.96,
+"words": [
+{
+"text": "That",
+"line": 0,
+"key": false,
+"start": 20.88,
+"end": 21.28
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 21.28,
+"end": 21.64
+},
+{
+"text": "habit",
+"line": 0,
+"key": false,
+"start": 21.64,
+"end": 21.96
+},
+{
+"text": "can",
+"line": 0,
+"key": false,
+"start": 21.96,
+"end": 22.13
+},
+{
+"text": "hurt",
+"line": 0,
+"key": false,
+"start": 22.13,
+"end": 22.32
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 22.32,
+"end": 22.56
+},
+{
+"text": "sound,",
+"line": 0,
+"key": false,
+"start": 22.56,
+"end": 23.31
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 23.31,
+"end": 23.44
+},
+{
+"text": "speed,",
+"line": 1,
+"key": false,
+"start": 23.44,
+"end": 24.08
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 24.08,
+"end": 24.4
+},
+{
+"text": "even",
+"line": 1,
+"key": false,
+"start": 24.4,
+"end": 24.72
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 24.72,
+"end": 24.88
+},
+{
+"text": "wrists.",
+"line": 1,
+"key": false,
+"start": 24.88,
+"end": 25.96
+}
+]
+},
+{
+"plain": "So let's fix it from day one.",
+"start": 25.96,
+"end": 28.24,
+"words": [
+{
+"text": "So",
+"line": 0,
+"key": false,
+"start": 25.96,
+"end": 26.24
+},
+{
+"text": "let's",
+"line": 0,
+"key": false,
+"start": 26.24,
+"end": 26.56
+},
+{
+"text": "fix",
+"line": 0,
+"key": false,
+"start": 26.56,
+"end": 26.72
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 26.72,
+"end": 26.88
+},
+{
+"text": "from",
+"line": 0,
+"key": false,
+"start": 26.88,
+"end": 27.24
+},
+{
+"text": "day",
+"line": 0,
+"key": false,
+"start": 27.24,
+"end": 27.44
+},
+{
+"text": "one.",
+"line": 0,
+"key": false,
+"start": 27.44,
+"end": 28.24
+}
+]
+},
+{
+"plain": "And stick around until the | end, pun intended,",
+"start": 28.24,
+"end": 31.17,
+"words": [
+{
+"text": "And",
+"line": 0,
+"key": false,
+"start": 28.24,
+"end": 28.4
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 28.4,
+"end": 28.56
+},
+{
+"text": "around",
+"line": 0,
+"key": false,
+"start": 28.56,
+"end": 28.96
+},
+{
+"text": "until",
+"line": 0,
+"key": false,
+"start": 28.96,
+"end": 29.16
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 29.16,
+"end": 29.28
+},
+{
+"text": "end,",
+"line": 1,
+"key": false,
+"start": 29.28,
+"end": 30.0
+},
+{
+"text": "pun",
+"line": 1,
+"key": false,
+"start": 30.0,
+"end": 30.2
+},
+{
+"text": "intended,",
+"line": 1,
+"key": false,
+"start": 30.2,
+"end": 31.17
+}
+]
+},
+{
+"plain": "because I've saved a bonus for you there.",
+"start": 31.17,
+"end": 33.52,
+"words": [
+{
+"text": "because",
+"line": 0,
+"key": false,
+"start": 31.17,
+"end": 31.44
+},
+{
+"text": "I've",
+"line": 0,
+"key": false,
+"start": 31.44,
+"end": 31.6
+},
+{
+"text": "saved",
+"line": 0,
+"key": false,
+"start": 31.6,
+"end": 31.84
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 31.84,
+"end": 32.2
+},
+{
+"text": "bonus",
+"line": 0,
+"key": true,
+"start": 32.2,
+"end": 32.48
+},
+{
+"text": "for",
+"line": 0,
+"key": false,
+"start": 32.48,
+"end": 32.6
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 32.6,
+"end": 32.72
+},
+{
+"text": "there.",
+"line": 0,
+"key": false,
+"start": 32.72,
+"end": 33.52
+}
+]
+},
+{
+"plain": "All you need today is a pair of sticks.",
+"start": 33.52,
+"end": 36.13,
+"words": [
+{
+"text": "All",
+"line": 0,
+"key": false,
+"start": 33.52,
+"end": 33.68
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 33.68,
+"end": 33.84
+},
+{
+"text": "need",
+"line": 0,
+"key": false,
+"start": 33.84,
+"end": 34.0
+},
+{
+"text": "today",
+"line": 0,
+"key": false,
+"start": 34.0,
+"end": 34.44
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 34.44,
+"end": 34.72
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 34.72,
+"end": 34.83
+},
+{
+"text": "pair",
+"line": 0,
+"key": false,
+"start": 34.83,
+"end": 34.96
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 34.96,
+"end": 35.2
+},
+{
+"text": "sticks.",
+"line": 0,
+"key": false,
+"start": 35.2,
+"end": 36.13
+}
+]
+},
+{
+"plain": "If you're not sure which to buy, a size 5A | is the most common starting point.",
+"start": 36.13,
+"end": 41.28,
+"words": [
+{
+"text": "If",
+"line": 0,
+"key": false,
+"start": 36.13,
+"end": 36.2
+},
+{
+"text": "you're",
+"line": 0,
+"key": false,
+"start": 36.2,
+"end": 36.44
+},
+{
+"text": "not",
+"line": 0,
+"key": false,
+"start": 36.44,
+"end": 36.68
+},
+{
+"text": "sure",
+"line": 0,
+"key": false,
+"start": 36.68,
+"end": 36.92
+},
+{
+"text": "which",
+"line": 0,
+"key": false,
+"start": 36.92,
+"end": 37.12
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 37.12,
+"end": 37.48
+},
+{
+"text": "buy,",
+"line": 0,
+"key": false,
+"start": 37.48,
+"end": 37.84
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 37.84,
+"end": 38.0
+},
+{
+"text": "size",
+"line": 0,
+"key": false,
+"start": 38.0,
+"end": 38.4
+},
+{
+"text": "5A",
+"line": 0,
+"key": true,
+"start": 38.4,
+"end": 39.2
+},
+{
+"text": "is",
+"line": 1,
+"key": false,
+"start": 39.2,
+"end": 39.36
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 39.36,
+"end": 39.52
+},
+{
+"text": "most",
+"line": 1,
+"key": false,
+"start": 39.52,
+"end": 40.0
+},
+{
+"text": "common",
+"line": 1,
+"key": false,
+"start": 40.0,
+"end": 40.24
+},
+{
+"text": "starting",
+"line": 1,
+"key": false,
+"start": 40.24,
+"end": 40.64
+},
+{
+"text": "point.",
+"line": 1,
+"key": false,
+"start": 40.64,
+"end": 41.28
+}
+]
+},
+{
+"plain": "It's not too thick, and not too thin.",
+"start": 41.28,
+"end": 44.24,
+"words": [
+{
+"text": "It's",
+"line": 0,
+"key": false,
+"start": 41.28,
+"end": 41.56
+},
+{
+"text": "not",
+"line": 0,
+"key": false,
+"start": 41.56,
+"end": 41.76
+},
+{
+"text": "too",
+"line": 0,
+"key": false,
+"start": 41.76,
+"end": 42.04
+},
+{
+"text": "thick,",
+"line": 0,
+"key": false,
+"start": 42.04,
+"end": 42.56
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 42.56,
+"end": 42.88
+},
+{
+"text": "not",
+"line": 0,
+"key": false,
+"start": 42.88,
+"end": 43.04
+},
+{
+"text": "too",
+"line": 0,
+"key": false,
+"start": 43.04,
+"end": 43.28
+},
+{
+"text": "thin.",
+"line": 0,
+"key": false,
+"start": 43.28,
+"end": 44.24
+}
+]
+},
+{
+"plain": "You don't need a full drum kit yet.",
+"start": 44.24,
+"end": 46.32,
+"words": [
+{
+"text": "You",
+"line": 0,
+"key": false,
+"start": 44.24,
+"end": 44.4
+},
+{
+"text": "don't",
+"line": 0,
+"key": false,
+"start": 44.4,
+"end": 44.64
+},
+{
+"text": "need",
+"line": 0,
+"key": false,
+"start": 44.64,
+"end": 44.88
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 44.88,
+"end": 44.96
+},
+{
+"text": "full",
+"line": 0,
+"key": false,
+"start": 44.96,
+"end": 45.2
+},
+{
+"text": "drum",
+"line": 0,
+"key": false,
+"start": 45.2,
+"end": 45.44
+},
+{
+"text": "kit",
+"line": 0,
+"key": false,
+"start": 45.44,
+"end": 45.96
+},
+{
+"text": "yet.",
+"line": 0,
+"key": false,
+"start": 45.96,
+"end": 46.32
+}
+]
+},
+{
+"plain": "A practice pad works great.",
+"start": 46.32,
+"end": 48.43,
+"words": [
+{
+"text": "A",
+"line": 0,
+"key": false,
+"start": 46.32,
+"end": 46.48
+},
+{
+"text": "practice",
+"line": 0,
+"key": false,
+"start": 46.48,
+"end": 47.04
+},
+{
+"text": "pad",
+"line": 0,
+"key": false,
+"start": 47.04,
+"end": 47.36
+},
+{
+"text": "works",
+"line": 0,
+"key": false,
+"start": 47.36,
+"end": 47.92
+},
+{
+"text": "great.",
+"line": 0,
+"key": false,
+"start": 47.92,
+"end": 48.43
+}
+]
+},
+{
+"plain": "A firm pillow works too, if you | want to start right now.",
+"start": 48.43,
+"end": 51.84,
+"words": [
+{
+"text": "A",
+"line": 0,
+"key": false,
+"start": 48.43,
+"end": 48.56
+},
+{
+"text": "firm",
+"line": 0,
+"key": false,
+"start": 48.56,
+"end": 48.92
+},
+{
+"text": "pillow",
+"line": 0,
+"key": false,
+"start": 48.92,
+"end": 49.2
+},
+{
+"text": "works",
+"line": 0,
+"key": false,
+"start": 49.2,
+"end": 49.72
+},
+{
+"text": "too,",
+"line": 0,
+"key": false,
+"start": 49.72,
+"end": 50.0
+},
+{
+"text": "if",
+"line": 0,
+"key": false,
+"start": 50.0,
+"end": 50.12
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 50.12,
+"end": 50.24
+},
+{
+"text": "want",
+"line": 1,
+"key": false,
+"start": 50.24,
+"end": 50.32
+},
+{
+"text": "to",
+"line": 1,
+"key": false,
+"start": 50.32,
+"end": 50.48
+},
+{
+"text": "start",
+"line": 1,
+"key": false,
+"start": 50.48,
+"end": 50.84
+},
+{
+"text": "right",
+"line": 1,
+"key": false,
+"start": 50.84,
+"end": 51.36
+},
+{
+"text": "now.",
+"line": 1,
+"key": false,
+"start": 51.36,
+"end": 51.84
+}
+]
+},
+{
+"plain": "Sit up straight, with your feet | flat on the floor,",
+"start": 51.84,
+"end": 54.59,
+"words": [
+{
+"text": "Sit",
+"line": 0,
+"key": false,
+"start": 51.84,
+"end": 52.0
+},
+{
+"text": "up",
+"line": 0,
+"key": false,
+"start": 52.0,
+"end": 52.24
+},
+{
+"text": "straight,",
+"line": 0,
+"key": false,
+"start": 52.24,
+"end": 52.83
+},
+{
+"text": "with",
+"line": 0,
+"key": false,
+"start": 52.83,
+"end": 53.0
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 53.0,
+"end": 53.16
+},
+{
+"text": "feet",
+"line": 0,
+"key": false,
+"start": 53.16,
+"end": 53.56
+},
+{
+"text": "flat",
+"line": 1,
+"key": false,
+"start": 53.56,
+"end": 53.72
+},
+{
+"text": "on",
+"line": 1,
+"key": false,
+"start": 53.72,
+"end": 53.84
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 53.84,
+"end": 54.2
+},
+{
+"text": "floor,",
+"line": 1,
+"key": false,
+"start": 54.2,
+"end": 54.59
+}
+]
+},
+{
+"plain": "and place your pad or pillow in front | of you at about waist height.",
+"start": 54.59,
+"end": 58.67,
+"words": [
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 54.59,
+"end": 54.72
+},
+{
+"text": "place",
+"line": 0,
+"key": false,
+"start": 54.72,
+"end": 55.04
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 55.04,
+"end": 55.36
+},
+{
+"text": "pad",
+"line": 0,
+"key": false,
+"start": 55.36,
+"end": 55.6
+},
+{
+"text": "or",
+"line": 0,
+"key": false,
+"start": 55.6,
+"end": 55.8
+},
+{
+"text": "pillow",
+"line": 0,
+"key": false,
+"start": 55.8,
+"end": 56.2
+},
+{
+"text": "in",
+"line": 0,
+"key": false,
+"start": 56.2,
+"end": 56.4
+},
+{
+"text": "front",
+"line": 0,
+"key": false,
+"start": 56.4,
+"end": 56.56
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 56.56,
+"end": 56.76
+},
+{
+"text": "you",
+"line": 1,
+"key": false,
+"start": 56.76,
+"end": 56.96
+},
+{
+"text": "at",
+"line": 1,
+"key": false,
+"start": 56.96,
+"end": 57.12
+},
+{
+"text": "about",
+"line": 1,
+"key": false,
+"start": 57.12,
+"end": 57.52
+},
+{
+"text": "waist",
+"line": 1,
+"key": false,
+"start": 57.52,
+"end": 57.84
+},
+{
+"text": "height.",
+"line": 1,
+"key": false,
+"start": 57.84,
+"end": 58.67
+}
+]
+},
+{
+"plain": "A drumstick has four parts.",
+"start": 58.67,
+"end": 60.96,
+"words": [
+{
+"text": "A",
+"line": 0,
+"key": false,
+"start": 58.67,
+"end": 58.8
+},
+{
+"text": "drumstick",
+"line": 0,
+"key": false,
+"start": 58.8,
+"end": 59.44
+},
+{
+"text": "has",
+"line": 0,
+"key": false,
+"start": 59.44,
+"end": 59.76
+},
+{
+"text": "four",
+"line": 0,
+"key": false,
+"start": 59.76,
+"end": 60.08
+},
+{
+"text": "parts.",
+"line": 0,
+"key": false,
+"start": 60.08,
+"end": 60.96
+}
+]
+},
+{
+"plain": "The tip is the end that hits the drum.",
+"start": 60.96,
+"end": 63.68,
+"words": [
+{
+"text": "The",
+"line": 0,
+"key": false,
+"start": 60.96,
+"end": 61.32
+},
+{
+"text": "tip",
+"line": 0,
+"key": false,
+"start": 61.32,
+"end": 61.6
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 61.6,
+"end": 61.76
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 61.76,
+"end": 61.92
+},
+{
+"text": "end",
+"line": 0,
+"key": false,
+"start": 61.92,
+"end": 62.16
+},
+{
+"text": "that",
+"line": 0,
+"key": false,
+"start": 62.16,
+"end": 62.4
+},
+{
+"text": "hits",
+"line": 0,
+"key": false,
+"start": 62.4,
+"end": 62.72
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 62.72,
+"end": 62.88
+},
+{
+"text": "drum.",
+"line": 0,
+"key": false,
+"start": 62.88,
+"end": 63.68
+}
+]
+},
+{
+"plain": "Next is the shoulder, where the | stick starts to narrow.",
+"start": 63.68,
+"end": 67.15,
+"words": [
+{
+"text": "Next",
+"line": 0,
+"key": false,
+"start": 63.68,
+"end": 64.16
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 64.16,
+"end": 64.32
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 64.32,
+"end": 64.56
+},
+{
+"text": "shoulder,",
+"line": 0,
+"key": false,
+"start": 64.56,
+"end": 65.12
+},
+{
+"text": "where",
+"line": 0,
+"key": false,
+"start": 65.12,
+"end": 65.28
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 65.28,
+"end": 65.52
+},
+{
+"text": "stick",
+"line": 1,
+"key": false,
+"start": 65.52,
+"end": 65.76
+},
+{
+"text": "starts",
+"line": 1,
+"key": false,
+"start": 65.76,
+"end": 66.08
+},
+{
+"text": "to",
+"line": 1,
+"key": false,
+"start": 66.08,
+"end": 66.24
+},
+{
+"text": "narrow.",
+"line": 1,
+"key": false,
+"start": 66.24,
+"end": 67.15
+}
+]
+},
+{
+"plain": "The long middle part is the shaft.",
+"start": 67.15,
+"end": 69.55,
+"words": [
+{
+"text": "The",
+"line": 0,
+"key": false,
+"start": 67.15,
+"end": 67.28
+},
+{
+"text": "long",
+"line": 0,
+"key": false,
+"start": 67.28,
+"end": 67.72
+},
+{
+"text": "middle",
+"line": 0,
+"key": false,
+"start": 67.72,
+"end": 67.92
+},
+{
+"text": "part",
+"line": 0,
+"key": false,
+"start": 67.92,
+"end": 68.24
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 68.24,
+"end": 68.4
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 68.4,
+"end": 69.0
+},
+{
+"text": "shaft.",
+"line": 0,
+"key": false,
+"start": 69.0,
+"end": 69.55
+}
+]
+},
+{
+"plain": "And the end you hold is called the butt.",
+"start": 69.55,
+"end": 72.08,
+"words": [
+{
+"text": "And",
+"line": 0,
+"key": false,
+"start": 69.55,
+"end": 69.68
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 69.68,
+"end": 69.84
+},
+{
+"text": "end",
+"line": 0,
+"key": false,
+"start": 69.84,
+"end": 70.08
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 70.08,
+"end": 70.24
+},
+{
+"text": "hold",
+"line": 0,
+"key": false,
+"start": 70.24,
+"end": 70.64
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 70.64,
+"end": 70.8
+},
+{
+"text": "called",
+"line": 0,
+"key": false,
+"start": 70.8,
+"end": 71.12
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 71.12,
+"end": 71.64
+},
+{
+"text": "butt.",
+"line": 0,
+"key": false,
+"start": 71.64,
+"end": 72.08
+}
+]
+},
+{
+"plain": "Remember that last one, because the | butt end is where we'll start.",
+"start": 72.08,
+"end": 75.84,
+"words": [
+{
+"text": "Remember",
+"line": 0,
+"key": false,
+"start": 72.08,
+"end": 72.48
+},
+{
+"text": "that",
+"line": 0,
+"key": false,
+"start": 72.48,
+"end": 72.64
+},
+{
+"text": "last",
+"line": 0,
+"key": false,
+"start": 72.64,
+"end": 72.96000000000001
+},
+{
+"text": "one,",
+"line": 0,
+"key": false,
+"start": 72.96000000000001,
+"end": 73.49
+},
+{
+"text": "because",
+"line": 0,
+"key": false,
+"start": 73.49,
+"end": 73.72
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 73.72,
+"end": 73.92
+},
+{
+"text": "butt",
+"line": 1,
+"key": false,
+"start": 73.92,
+"end": 74.08
+},
+{
+"text": "end",
+"line": 1,
+"key": false,
+"start": 74.08,
+"end": 74.48
+},
+{
+"text": "is",
+"line": 1,
+"key": false,
+"start": 74.48,
+"end": 74.64
+},
+{
+"text": "where",
+"line": 1,
+"key": false,
+"start": 74.64,
+"end": 74.8
+},
+{
+"text": "we'll",
+"line": 1,
+"key": false,
+"start": 74.8,
+"end": 75.03999999999999
+},
+{
+"text": "start.",
+"line": 1,
+"key": false,
+"start": 75.03999999999999,
+"end": 75.84
+}
+]
+},
+{
+"plain": "Every stick has a balance point.",
+"start": 75.84,
+"end": 78.08,
+"words": [
+{
+"text": "Every",
+"line": 0,
+"key": false,
+"start": 75.84,
+"end": 76.36
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 76.36,
+"end": 76.64
+},
+{
+"text": "has",
+"line": 0,
+"key": false,
+"start": 76.64,
+"end": 76.88
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 76.88,
+"end": 77.15
+},
+{
+"text": "balance",
+"line": 0,
+"key": true,
+"start": 77.15,
+"end": 77.36
+},
+{
+"text": "point.",
+"line": 0,
+"key": false,
+"start": 77.36,
+"end": 78.08
+}
+]
+},
+{
+"plain": "In drumming, we call it the fulcrum.",
+"start": 78.08,
+"end": 80.64,
+"words": [
+{
+"text": "In",
+"line": 0,
+"key": false,
+"start": 78.08,
+"end": 78.32
+},
+{
+"text": "drumming,",
+"line": 0,
+"key": false,
+"start": 78.32,
+"end": 78.88
+},
+{
+"text": "we",
+"line": 0,
+"key": false,
+"start": 78.88,
+"end": 79.03999999999999
+},
+{
+"text": "call",
+"line": 0,
+"key": false,
+"start": 79.03999999999999,
+"end": 79.28
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 79.28,
+"end": 79.44
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 79.44,
+"end": 79.68
+},
+{
+"text": "fulcrum.",
+"line": 0,
+"key": true,
+"start": 79.68,
+"end": 80.64
+}
+]
+},
+{
+"plain": "It's the spot where the stick feels | light and bouncy in your hand.",
+"start": 80.64,
+"end": 84.48,
+"words": [
+{
+"text": "It's",
+"line": 0,
+"key": false,
+"start": 80.64,
+"end": 80.88
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 80.88,
+"end": 81.03999999999999
+},
+{
+"text": "spot",
+"line": 0,
+"key": false,
+"start": 81.03999999999999,
+"end": 81.36
+},
+{
+"text": "where",
+"line": 0,
+"key": false,
+"start": 81.36,
+"end": 81.52
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 81.52,
+"end": 81.68
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 81.68,
+"end": 81.96000000000001
+},
+{
+"text": "feels",
+"line": 0,
+"key": false,
+"start": 81.96000000000001,
+"end": 82.48
+},
+{
+"text": "light",
+"line": 1,
+"key": false,
+"start": 82.48,
+"end": 82.76
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 82.76,
+"end": 82.96000000000001
+},
+{
+"text": "bouncy",
+"line": 1,
+"key": false,
+"start": 82.96000000000001,
+"end": 83.4
+},
+{
+"text": "in",
+"line": 1,
+"key": false,
+"start": 83.4,
+"end": 83.52
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 83.52,
+"end": 83.68
+},
+{
+"text": "hand.",
+"line": 1,
+"key": false,
+"start": 83.68,
+"end": 84.48
+}
+]
+},
+{
+"plain": "To find it, rest the stick across one finger | and slide it until it balances.",
+"start": 84.48,
+"end": 89.68,
+"words": [
+{
+"text": "To",
+"line": 0,
+"key": false,
+"start": 84.48,
+"end": 84.76
+},
+{
+"text": "find",
+"line": 0,
+"key": false,
+"start": 84.76,
+"end": 84.96000000000001
+},
+{
+"text": "it,",
+"line": 0,
+"key": false,
+"start": 84.96000000000001,
+"end": 85.36
+},
+{
+"text": "rest",
+"line": 0,
+"key": false,
+"start": 85.36,
+"end": 85.68
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 85.68,
+"end": 85.84
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 85.84,
+"end": 86.08
+},
+{
+"text": "across",
+"line": 0,
+"key": false,
+"start": 86.08,
+"end": 86.56
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 86.56,
+"end": 87.03999999999999
+},
+{
+"text": "finger",
+"line": 0,
+"key": false,
+"start": 87.03999999999999,
+"end": 87.4
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 87.4,
+"end": 87.6
+},
+{
+"text": "slide",
+"line": 1,
+"key": false,
+"start": 87.6,
+"end": 88.0
+},
+{
+"text": "it",
+"line": 1,
+"key": false,
+"start": 88.0,
+"end": 88.24
+},
+{
+"text": "until",
+"line": 1,
+"key": false,
+"start": 88.24,
+"end": 88.44
+},
+{
+"text": "it",
+"line": 1,
+"key": false,
+"start": 88.44,
+"end": 88.56
+},
+{
+"text": "balances.",
+"line": 1,
+"key": false,
+"start": 88.56,
+"end": 89.68
+}
+]
+},
+{
+"plain": "For most sticks, that's about a third of | the way up from the butt end.",
+"start": 89.68,
+"end": 93.6,
+"words": [
+{
+"text": "For",
+"line": 0,
+"key": false,
+"start": 89.68,
+"end": 89.96000000000001
+},
+{
+"text": "most",
+"line": 0,
+"key": false,
+"start": 89.96000000000001,
+"end": 90.16
+},
+{
+"text": "sticks,",
+"line": 0,
+"key": false,
+"start": 90.16,
+"end": 90.75
+},
+{
+"text": "that's",
+"line": 0,
+"key": false,
+"start": 90.75,
+"end": 90.88
+},
+{
+"text": "about",
+"line": 0,
+"key": false,
+"start": 90.88,
+"end": 91.36
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 91.36,
+"end": 91.47
+},
+{
+"text": "third",
+"line": 0,
+"key": false,
+"start": 91.47,
+"end": 91.6
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 91.6,
+"end": 91.72
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 91.72,
+"end": 91.84
+},
+{
+"text": "way",
+"line": 1,
+"key": false,
+"start": 91.84,
+"end": 92.08
+},
+{
+"text": "up",
+"line": 1,
+"key": false,
+"start": 92.08,
+"end": 92.32
+},
+{
+"text": "from",
+"line": 1,
+"key": false,
+"start": 92.32,
+"end": 92.47999999999999
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 92.47999999999999,
+"end": 92.64
+},
+{
+"text": "butt",
+"line": 1,
+"key": false,
+"start": 92.64,
+"end": 92.8
+},
+{
+"text": "end.",
+"line": 1,
+"key": false,
+"start": 92.8,
+"end": 93.6
+}
+]
+},
+{
+"plain": "Now pinch the stick at that spot,",
+"start": 93.6,
+"end": 95.81,
+"words": [
+{
+"text": "Now",
+"line": 0,
+"key": false,
+"start": 93.6,
+"end": 94.0
+},
+{
+"text": "pinch",
+"line": 0,
+"key": false,
+"start": 94.0,
+"end": 94.32
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 94.32,
+"end": 94.47999999999999
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 94.47999999999999,
+"end": 94.72
+},
+{
+"text": "at",
+"line": 0,
+"key": false,
+"start": 94.72,
+"end": 94.88
+},
+{
+"text": "that",
+"line": 0,
+"key": false,
+"start": 94.88,
+"end": 95.03999999999999
+},
+{
+"text": "spot,",
+"line": 0,
+"key": false,
+"start": 95.03999999999999,
+"end": 95.81
+}
+]
+},
+{
+"plain": "between your thumb and the side | of your first finger.",
+"start": 95.81,
+"end": 98.72,
+"words": [
+{
+"text": "between",
+"line": 0,
+"key": false,
+"start": 95.81,
+"end": 96.03999999999999
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 96.03999999999999,
+"end": 96.36
+},
+{
+"text": "thumb",
+"line": 0,
+"key": false,
+"start": 96.36,
+"end": 96.6
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 96.6,
+"end": 96.72
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 96.72,
+"end": 97.0
+},
+{
+"text": "side",
+"line": 0,
+"key": false,
+"start": 97.0,
+"end": 97.16
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 97.16,
+"end": 97.28
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 97.28,
+"end": 97.52000000000001
+},
+{
+"text": "first",
+"line": 1,
+"key": false,
+"start": 97.52000000000001,
+"end": 97.84
+},
+{
+"text": "finger.",
+"line": 1,
+"key": false,
+"start": 97.84,
+"end": 98.72
+}
+]
+},
+{
+"plain": "Think of pinching a pencil, only lighter.",
+"start": 98.72,
+"end": 101.44,
+"words": [
+{
+"text": "Think",
+"line": 0,
+"key": false,
+"start": 98.72,
+"end": 98.88
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 98.88,
+"end": 99.12
+},
+{
+"text": "pinching",
+"line": 0,
+"key": false,
+"start": 99.12,
+"end": 99.52000000000001
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 99.52000000000001,
+"end": 99.57
+},
+{
+"text": "pencil,",
+"line": 0,
+"key": false,
+"start": 99.57,
+"end": 100.32
+},
+{
+"text": "only",
+"line": 0,
+"key": false,
+"start": 100.32,
+"end": 100.68
+},
+{
+"text": "lighter.",
+"line": 0,
+"key": false,
+"start": 100.68,
+"end": 101.44
+}
+]
+},
+{
+"plain": "Just enough that it won't fall.",
+"start": 101.44,
+"end": 103.44,
+"words": [
+{
+"text": "Just",
+"line": 0,
+"key": false,
+"start": 101.44,
+"end": 101.68
+},
+{
+"text": "enough",
+"line": 0,
+"key": false,
+"start": 101.68,
+"end": 102.03999999999999
+},
+{
+"text": "that",
+"line": 0,
+"key": false,
+"start": 102.03999999999999,
+"end": 102.16
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 102.16,
+"end": 102.36
+},
+{
+"text": "won't",
+"line": 0,
+"key": false,
+"start": 102.36,
+"end": 102.64
+},
+{
+"text": "fall.",
+"line": 0,
+"key": false,
+"start": 102.64,
+"end": 103.44
+}
+]
+},
+{
+"plain": "This pinch point is your pivot.",
+"start": 103.44,
+"end": 105.44,
+"words": [
+{
+"text": "This",
+"line": 0,
+"key": false,
+"start": 103.44,
+"end": 103.72
+},
+{
+"text": "pinch",
+"line": 0,
+"key": false,
+"start": 103.72,
+"end": 104.0
+},
+{
+"text": "point",
+"line": 0,
+"key": false,
+"start": 104.0,
+"end": 104.32
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 104.32,
+"end": 104.52000000000001
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 104.52000000000001,
+"end": 105.0
+},
+{
+"text": "pivot.",
+"line": 0,
+"key": true,
+"start": 105.0,
+"end": 105.44
+}
+]
+},
+{
+"plain": "The stick swings around it, like a seesaw.",
+"start": 105.44,
+"end": 108.32,
+"words": [
+{
+"text": "The",
+"line": 0,
+"key": false,
+"start": 105.44,
+"end": 105.68
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 105.68,
+"end": 106.08
+},
+{
+"text": "swings",
+"line": 0,
+"key": false,
+"start": 106.08,
+"end": 106.47999999999999
+},
+{
+"text": "around",
+"line": 0,
+"key": false,
+"start": 106.47999999999999,
+"end": 106.92
+},
+{
+"text": "it,",
+"line": 0,
+"key": false,
+"start": 106.92,
+"end": 107.15
+},
+{
+"text": "like",
+"line": 0,
+"key": false,
+"start": 107.15,
+"end": 107.36
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 107.36,
+"end": 107.41
+},
+{
+"text": "seesaw.",
+"line": 0,
+"key": false,
+"start": 107.41,
+"end": 108.32
+}
+]
+},
+{
+"plain": "Quick check.",
+"start": 108.32,
+"end": 109.28,
+"words": [
+{
+"text": "Quick",
+"line": 0,
+"key": false,
+"start": 108.32,
+"end": 108.88
+},
+{
+"text": "check.",
+"line": 0,
+"key": false,
+"start": 108.88,
+"end": 109.28
+}
+]
+},
+{
+"plain": "Can you wiggle the stick back | and forth freely?",
+"start": 109.28,
+"end": 112.08,
+"words": [
+{
+"text": "Can",
+"line": 0,
+"key": false,
+"start": 109.28,
+"end": 109.44
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 109.44,
+"end": 109.68
+},
+{
+"text": "wiggle",
+"line": 0,
+"key": false,
+"start": 109.68,
+"end": 109.92
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 109.92,
+"end": 110.08
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 110.08,
+"end": 110.47999999999999
+},
+{
+"text": "back",
+"line": 0,
+"key": false,
+"start": 110.47999999999999,
+"end": 110.64
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 110.64,
+"end": 110.96000000000001
+},
+{
+"text": "forth",
+"line": 1,
+"key": false,
+"start": 110.96000000000001,
+"end": 111.2
+},
+{
+"text": "freely?",
+"line": 1,
+"key": false,
+"start": 111.2,
+"end": 112.08
+}
+]
+},
+{
+"plain": "If so, great.",
+"start": 112.08,
+"end": 113.75999999999999,
+"words": [
+{
+"text": "If",
+"line": 0,
+"key": false,
+"start": 112.08,
+"end": 112.52000000000001
+},
+{
+"text": "so,",
+"line": 0,
+"key": false,
+"start": 112.52000000000001,
+"end": 112.88
+},
+{
+"text": "great.",
+"line": 0,
+"key": false,
+"start": 112.88,
+"end": 113.75999999999999
+}
+]
+},
+{
+"plain": "If it feels stuck, you're | squeezing too hard.",
+"start": 113.75999999999999,
+"end": 116.8,
+"words": [
+{
+"text": "If",
+"line": 0,
+"key": false,
+"start": 113.75999999999999,
+"end": 113.92
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 113.92,
+"end": 114.03999999999999
+},
+{
+"text": "feels",
+"line": 0,
+"key": false,
+"start": 114.03999999999999,
+"end": 114.4
+},
+{
+"text": "stuck,",
+"line": 0,
+"key": false,
+"start": 114.4,
+"end": 114.96000000000001
+},
+{
+"text": "you're",
+"line": 0,
+"key": false,
+"start": 114.96000000000001,
+"end": 115.2
+},
+{
+"text": "squeezing",
+"line": 1,
+"key": false,
+"start": 115.2,
+"end": 115.88
+},
+{
+"text": "too",
+"line": 1,
+"key": false,
+"start": 115.88,
+"end": 116.08
+},
+{
+"text": "hard.",
+"line": 1,
+"key": false,
+"start": 116.08,
+"end": 116.8
+}
+]
+},
+{
+"plain": "Loosen up a little.",
+"start": 116.8,
+"end": 118.16,
+"words": [
+{
+"text": "Loosen",
+"line": 0,
+"key": false,
+"start": 116.8,
+"end": 117.2
+},
+{
+"text": "up",
+"line": 0,
+"key": false,
+"start": 117.2,
+"end": 117.36
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 117.36,
+"end": 117.84
+},
+{
+"text": "little.",
+"line": 0,
+"key": false,
+"start": 117.84,
+"end": 118.16
+}
+]
+},
+{
+"plain": "Now bring in your other fingers.",
+"start": 118.16,
+"end": 120.45,
+"words": [
+{
+"text": "Now",
+"line": 0,
+"key": false,
+"start": 118.16,
+"end": 118.68
+},
+{
+"text": "bring",
+"line": 0,
+"key": false,
+"start": 118.68,
+"end": 118.88
+},
+{
+"text": "in",
+"line": 0,
+"key": false,
+"start": 118.88,
+"end": 119.03999999999999
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 119.03999999999999,
+"end": 119.2
+},
+{
+"text": "other",
+"line": 0,
+"key": false,
+"start": 119.2,
+"end": 119.47999999999999
+},
+{
+"text": "fingers.",
+"line": 0,
+"key": false,
+"start": 119.47999999999999,
+"end": 120.45
+}
+]
+},
+{
+"plain": "Curl your middle, ring, and pinky | fingers around the stick,",
+"start": 120.45,
+"end": 124.11,
+"words": [
+{
+"text": "Curl",
+"line": 0,
+"key": false,
+"start": 120.45,
+"end": 120.8
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 120.8,
+"end": 121.04
+},
+{
+"text": "middle,",
+"line": 0,
+"key": false,
+"start": 121.04,
+"end": 121.6
+},
+{
+"text": "ring,",
+"line": 0,
+"key": false,
+"start": 121.6,
+"end": 122.0
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 122.0,
+"end": 122.24
+},
+{
+"text": "pinky",
+"line": 0,
+"key": false,
+"start": 122.24,
+"end": 122.6
+},
+{
+"text": "fingers",
+"line": 1,
+"key": false,
+"start": 122.6,
+"end": 123.12
+},
+{
+"text": "around",
+"line": 1,
+"key": false,
+"start": 123.12,
+"end": 123.44
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 123.44,
+"end": 123.6
+},
+{
+"text": "stick,",
+"line": 1,
+"key": false,
+"start": 123.6,
+"end": 124.11
+}
+]
+},
+{
+"plain": "and let them rest there loosely.",
+"start": 124.11,
+"end": 126.08,
+"words": [
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 124.11,
+"end": 124.24
+},
+{
+"text": "let",
+"line": 0,
+"key": false,
+"start": 124.24,
+"end": 124.44
+},
+{
+"text": "them",
+"line": 0,
+"key": false,
+"start": 124.44,
+"end": 124.68
+},
+{
+"text": "rest",
+"line": 0,
+"key": false,
+"start": 124.68,
+"end": 124.88
+},
+{
+"text": "there",
+"line": 0,
+"key": false,
+"start": 124.88,
+"end": 125.16
+},
+{
+"text": "loosely.",
+"line": 0,
+"key": false,
+"start": 125.16,
+"end": 126.08
+}
+]
+},
+{
+"plain": "A good way to picture it is | holding a small bird.",
+"start": 126.08,
+"end": 129.12,
+"words": [
+{
+"text": "A",
+"line": 0,
+"key": false,
+"start": 126.08,
+"end": 126.24
+},
+{
+"text": "good",
+"line": 0,
+"key": false,
+"start": 126.24,
+"end": 126.4
+},
+{
+"text": "way",
+"line": 0,
+"key": false,
+"start": 126.4,
+"end": 126.56
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 126.56,
+"end": 126.8
+},
+{
+"text": "picture",
+"line": 0,
+"key": false,
+"start": 126.8,
+"end": 127.04
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 127.04,
+"end": 127.2
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 127.2,
+"end": 127.44
+},
+{
+"text": "holding",
+"line": 1,
+"key": false,
+"start": 127.44,
+"end": 127.92
+},
+{
+"text": "a",
+"line": 1,
+"key": false,
+"start": 127.92,
+"end": 128.19
+},
+{
+"text": "small",
+"line": 1,
+"key": false,
+"start": 128.19,
+"end": 128.68
+},
+{
+"text": "bird.",
+"line": 1,
+"key": true,
+"start": 128.68,
+"end": 129.12
+}
+]
+},
+{
+"plain": "Firm enough that it won't fly away, and | soft enough that you won't hurt it.",
+"start": 129.12,
+"end": 133.44,
+"words": [
+{
+"text": "Firm",
+"line": 0,
+"key": false,
+"start": 129.12,
+"end": 129.36
+},
+{
+"text": "enough",
+"line": 0,
+"key": false,
+"start": 129.36,
+"end": 129.72
+},
+{
+"text": "that",
+"line": 0,
+"key": false,
+"start": 129.72,
+"end": 129.84
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 129.84,
+"end": 130.0
+},
+{
+"text": "won't",
+"line": 0,
+"key": false,
+"start": 130.0,
+"end": 130.36
+},
+{
+"text": "fly",
+"line": 0,
+"key": false,
+"start": 130.36,
+"end": 130.56
+},
+{
+"text": "away,",
+"line": 0,
+"key": false,
+"start": 130.56,
+"end": 131.28
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 131.28,
+"end": 131.44
+},
+{
+"text": "soft",
+"line": 1,
+"key": false,
+"start": 131.44,
+"end": 131.76
+},
+{
+"text": "enough",
+"line": 1,
+"key": false,
+"start": 131.76,
+"end": 132.08
+},
+{
+"text": "that",
+"line": 1,
+"key": false,
+"start": 132.08,
+"end": 132.24
+},
+{
+"text": "you",
+"line": 1,
+"key": false,
+"start": 132.24,
+"end": 132.4
+},
+{
+"text": "won't",
+"line": 1,
+"key": false,
+"start": 132.4,
+"end": 132.68
+},
+{
+"text": "hurt",
+"line": 1,
+"key": false,
+"start": 132.68,
+"end": 132.88
+},
+{
+"text": "it.",
+"line": 1,
+"key": false,
+"start": 132.88,
+"end": 133.44
+}
+]
+},
+{
+"plain": "Your fingers should touch the stick, | but not clamp down on it.",
+"start": 133.44,
+"end": 137.12,
+"words": [
+{
+"text": "Your",
+"line": 0,
+"key": false,
+"start": 133.44,
+"end": 133.81
+},
+{
+"text": "fingers",
+"line": 0,
+"key": false,
+"start": 133.81,
+"end": 134.16
+},
+{
+"text": "should",
+"line": 0,
+"key": false,
+"start": 134.16,
+"end": 134.32
+},
+{
+"text": "touch",
+"line": 0,
+"key": false,
+"start": 134.32,
+"end": 134.64
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 134.64,
+"end": 134.8
+},
+{
+"text": "stick,",
+"line": 0,
+"key": false,
+"start": 134.8,
+"end": 135.36
+},
+{
+"text": "but",
+"line": 1,
+"key": false,
+"start": 135.36,
+"end": 135.52
+},
+{
+"text": "not",
+"line": 1,
+"key": false,
+"start": 135.52,
+"end": 135.84
+},
+{
+"text": "clamp",
+"line": 1,
+"key": false,
+"start": 135.84,
+"end": 136.28
+},
+{
+"text": "down",
+"line": 1,
+"key": false,
+"start": 136.28,
+"end": 136.48
+},
+{
+"text": "on",
+"line": 1,
+"key": false,
+"start": 136.48,
+"end": 136.8
+},
+{
+"text": "it.",
+"line": 1,
+"key": false,
+"start": 136.8,
+"end": 137.12
+}
+]
+},
+{
+"plain": "And the end of the stick should poke out | just a little past your palm.",
+"start": 137.12,
+"end": 141.12,
+"words": [
+{
+"text": "And",
+"line": 0,
+"key": false,
+"start": 137.12,
+"end": 137.28
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 137.28,
+"end": 137.44
+},
+{
+"text": "end",
+"line": 0,
+"key": false,
+"start": 137.44,
+"end": 137.6
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 137.6,
+"end": 137.76
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 137.76,
+"end": 137.92000000000002
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 137.92000000000002,
+"end": 138.24
+},
+{
+"text": "should",
+"line": 0,
+"key": false,
+"start": 138.24,
+"end": 138.4
+},
+{
+"text": "poke",
+"line": 0,
+"key": false,
+"start": 138.4,
+"end": 138.64
+},
+{
+"text": "out",
+"line": 0,
+"key": false,
+"start": 138.64,
+"end": 139.04
+},
+{
+"text": "just",
+"line": 1,
+"key": false,
+"start": 139.04,
+"end": 139.44
+},
+{
+"text": "a",
+"line": 1,
+"key": false,
+"start": 139.44,
+"end": 139.6
+},
+{
+"text": "little",
+"line": 1,
+"key": false,
+"start": 139.6,
+"end": 139.76
+},
+{
+"text": "past",
+"line": 1,
+"key": false,
+"start": 139.76,
+"end": 140.07999999999998
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 140.07999999999998,
+"end": 140.24
+},
+{
+"text": "palm.",
+"line": 1,
+"key": false,
+"start": 140.24,
+"end": 141.12
+}
+]
+},
+{
+"plain": "Next, turn your hands so your palms | face down toward the drum.",
+"start": 141.12,
+"end": 145.2,
+"words": [
+{
+"text": "Next,",
+"line": 0,
+"key": false,
+"start": 141.12,
+"end": 141.68
+},
+{
+"text": "turn",
+"line": 0,
+"key": false,
+"start": 141.68,
+"end": 141.92000000000002
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 141.92000000000002,
+"end": 142.16
+},
+{
+"text": "hands",
+"line": 0,
+"key": false,
+"start": 142.16,
+"end": 142.48
+},
+{
+"text": "so",
+"line": 0,
+"key": false,
+"start": 142.48,
+"end": 142.64
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 142.64,
+"end": 142.8
+},
+{
+"text": "palms",
+"line": 0,
+"key": false,
+"start": 142.8,
+"end": 143.28
+},
+{
+"text": "face",
+"line": 1,
+"key": false,
+"start": 143.28,
+"end": 143.68
+},
+{
+"text": "down",
+"line": 1,
+"key": false,
+"start": 143.68,
+"end": 144.07999999999998
+},
+{
+"text": "toward",
+"line": 1,
+"key": false,
+"start": 144.07999999999998,
+"end": 144.32
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 144.32,
+"end": 144.48
+},
+{
+"text": "drum.",
+"line": 1,
+"key": false,
+"start": 144.48,
+"end": 145.2
+}
+]
+},
+{
+"plain": "Your thumbs should sit along the side of | the stick, not on top of it.",
+"start": 145.2,
+"end": 149.28,
+"words": [
+{
+"text": "Your",
+"line": 0,
+"key": false,
+"start": 145.2,
+"end": 145.52
+},
+{
+"text": "thumbs",
+"line": 0,
+"key": false,
+"start": 145.52,
+"end": 145.96
+},
+{
+"text": "should",
+"line": 0,
+"key": false,
+"start": 145.96,
+"end": 146.16
+},
+{
+"text": "sit",
+"line": 0,
+"key": false,
+"start": 146.16,
+"end": 146.32
+},
+{
+"text": "along",
+"line": 0,
+"key": false,
+"start": 146.32,
+"end": 146.68
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 146.68,
+"end": 146.92000000000002
+},
+{
+"text": "side",
+"line": 0,
+"key": false,
+"start": 146.92000000000002,
+"end": 147.07999999999998
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 147.07999999999998,
+"end": 147.2
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 147.2,
+"end": 147.36
+},
+{
+"text": "stick,",
+"line": 1,
+"key": false,
+"start": 147.36,
+"end": 147.92000000000002
+},
+{
+"text": "not",
+"line": 1,
+"key": false,
+"start": 147.92000000000002,
+"end": 148.16
+},
+{
+"text": "on",
+"line": 1,
+"key": false,
+"start": 148.16,
+"end": 148.32
+},
+{
+"text": "top",
+"line": 1,
+"key": false,
+"start": 148.32,
+"end": 148.56
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 148.56,
+"end": 148.72
+},
+{
+"text": "it.",
+"line": 1,
+"key": false,
+"start": 148.72,
+"end": 149.28
+}
+]
+},
+{
+"plain": "Bring the tips of the sticks close | together near the middle of the pad,",
+"start": 149.28,
+"end": 152.99,
+"words": [
+{
+"text": "Bring",
+"line": 0,
+"key": false,
+"start": 149.28,
+"end": 149.6
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 149.6,
+"end": 149.8
+},
+{
+"text": "tips",
+"line": 0,
+"key": false,
+"start": 149.8,
+"end": 149.96
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 149.96,
+"end": 150.07999999999998
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 150.07999999999998,
+"end": 150.24
+},
+{
+"text": "sticks",
+"line": 0,
+"key": false,
+"start": 150.24,
+"end": 150.64
+},
+{
+"text": "close",
+"line": 0,
+"key": false,
+"start": 150.64,
+"end": 151.04
+},
+{
+"text": "together",
+"line": 1,
+"key": false,
+"start": 151.04,
+"end": 151.52
+},
+{
+"text": "near",
+"line": 1,
+"key": false,
+"start": 151.52,
+"end": 151.68
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 151.68,
+"end": 151.84
+},
+{
+"text": "middle",
+"line": 1,
+"key": false,
+"start": 151.84,
+"end": 152.07999999999998
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 152.07999999999998,
+"end": 152.24
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 152.24,
+"end": 152.6
+},
+{
+"text": "pad,",
+"line": 1,
+"key": false,
+"start": 152.6,
+"end": 152.99
+}
+]
+},
+{
+"plain": "so they make a wide V shape.",
+"start": 152.99,
+"end": 154.96,
+"words": [
+{
+"text": "so",
+"line": 0,
+"key": false,
+"start": 152.99,
+"end": 153.07999999999998
+},
+{
+"text": "they",
+"line": 0,
+"key": false,
+"start": 153.07999999999998,
+"end": 153.2
+},
+{
+"text": "make",
+"line": 0,
+"key": false,
+"start": 153.2,
+"end": 153.6
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 153.6,
+"end": 153.92000000000002
+},
+{
+"text": "wide",
+"line": 0,
+"key": false,
+"start": 153.92000000000002,
+"end": 154.2
+},
+{
+"text": "V",
+"line": 0,
+"key": false,
+"start": 154.2,
+"end": 154.52
+},
+{
+"text": "shape.",
+"line": 0,
+"key": false,
+"start": 154.52,
+"end": 154.96
+}
+]
+},
+{
+"plain": "This is called matched grip, because both | hands hold the stick the same way.",
+"start": 154.96,
+"end": 160.16,
+"words": [
+{
+"text": "This",
+"line": 0,
+"key": false,
+"start": 154.96,
+"end": 155.2
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 155.2,
+"end": 155.36
+},
+{
+"text": "called",
+"line": 0,
+"key": false,
+"start": 155.36,
+"end": 155.68
+},
+{
+"text": "matched",
+"line": 0,
+"key": true,
+"start": 155.68,
+"end": 156.4
+},
+{
+"text": "grip,",
+"line": 0,
+"key": false,
+"start": 156.4,
+"end": 157.04
+},
+{
+"text": "because",
+"line": 0,
+"key": false,
+"start": 157.04,
+"end": 157.44
+},
+{
+"text": "both",
+"line": 0,
+"key": false,
+"start": 157.44,
+"end": 157.76
+},
+{
+"text": "hands",
+"line": 1,
+"key": false,
+"start": 157.76,
+"end": 158.16
+},
+{
+"text": "hold",
+"line": 1,
+"key": false,
+"start": 158.16,
+"end": 158.36
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 158.36,
+"end": 158.48
+},
+{
+"text": "stick",
+"line": 1,
+"key": false,
+"start": 158.48,
+"end": 158.88
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 158.88,
+"end": 159.04
+},
+{
+"text": "same",
+"line": 1,
+"key": false,
+"start": 159.04,
+"end": 159.36
+},
+{
+"text": "way.",
+"line": 1,
+"key": false,
+"start": 159.36,
+"end": 160.16
+}
+]
+},
+{
+"plain": "It's the most common grip, and a | great place to start.",
+"start": 160.16,
+"end": 163.76,
+"words": [
+{
+"text": "It's",
+"line": 0,
+"key": false,
+"start": 160.16,
+"end": 160.4
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 160.4,
+"end": 160.64
+},
+{
+"text": "most",
+"line": 0,
+"key": false,
+"start": 160.64,
+"end": 160.88
+},
+{
+"text": "common",
+"line": 0,
+"key": false,
+"start": 160.88,
+"end": 161.28
+},
+{
+"text": "grip,",
+"line": 0,
+"key": false,
+"start": 161.28,
+"end": 161.8
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 161.8,
+"end": 161.92000000000002
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 161.92000000000002,
+"end": 162.07999999999998
+},
+{
+"text": "great",
+"line": 1,
+"key": false,
+"start": 162.07999999999998,
+"end": 162.52
+},
+{
+"text": "place",
+"line": 1,
+"key": false,
+"start": 162.52,
+"end": 162.72
+},
+{
+"text": "to",
+"line": 1,
+"key": false,
+"start": 162.72,
+"end": 163.04
+},
+{
+"text": "start.",
+"line": 1,
+"key": false,
+"start": 163.04,
+"end": 163.76
+}
+]
+},
+{
+"plain": "Here's a fun test to see if | your grip is relaxed.",
+"start": 163.76,
+"end": 166.96,
+"words": [
+{
+"text": "Here's",
+"line": 0,
+"key": false,
+"start": 163.76,
+"end": 164.0
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 164.0,
+"end": 164.2
+},
+{
+"text": "fun",
+"line": 0,
+"key": false,
+"start": 164.2,
+"end": 164.4
+},
+{
+"text": "test",
+"line": 0,
+"key": false,
+"start": 164.4,
+"end": 164.8
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 164.8,
+"end": 164.96
+},
+{
+"text": "see",
+"line": 0,
+"key": false,
+"start": 164.96,
+"end": 165.12
+},
+{
+"text": "if",
+"line": 0,
+"key": false,
+"start": 165.12,
+"end": 165.28
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 165.28,
+"end": 165.4
+},
+{
+"text": "grip",
+"line": 1,
+"key": false,
+"start": 165.4,
+"end": 165.64
+},
+{
+"text": "is",
+"line": 1,
+"key": false,
+"start": 165.64,
+"end": 165.76
+},
+{
+"text": "relaxed.",
+"line": 1,
+"key": true,
+"start": 165.76,
+"end": 166.96
+}
+]
+},
+{
+"plain": "Hold the stick a few inches above | the pad, and let it drop.",
+"start": 166.96,
+"end": 170.8,
+"words": [
+{
+"text": "Hold",
+"line": 0,
+"key": false,
+"start": 166.96,
+"end": 167.16
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 167.16,
+"end": 167.28
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 167.28,
+"end": 167.68
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 167.68,
+"end": 167.96
+},
+{
+"text": "few",
+"line": 0,
+"key": false,
+"start": 167.96,
+"end": 168.12
+},
+{
+"text": "inches",
+"line": 0,
+"key": false,
+"start": 168.12,
+"end": 168.56
+},
+{
+"text": "above",
+"line": 0,
+"key": false,
+"start": 168.56,
+"end": 168.8
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 168.8,
+"end": 169.12
+},
+{
+"text": "pad,",
+"line": 1,
+"key": false,
+"start": 169.12,
+"end": 169.47
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 169.47,
+"end": 169.6
+},
+{
+"text": "let",
+"line": 1,
+"key": false,
+"start": 169.6,
+"end": 169.76
+},
+{
+"text": "it",
+"line": 1,
+"key": false,
+"start": 169.76,
+"end": 170.04
+},
+{
+"text": "drop.",
+"line": 1,
+"key": false,
+"start": 170.04,
+"end": 170.8
+}
+]
+},
+{
+"plain": "Don't push it down.",
+"start": 170.8,
+"end": 172.16,
+"words": [
+{
+"text": "Don't",
+"line": 0,
+"key": false,
+"start": 170.8,
+"end": 171.12
+},
+{
+"text": "push",
+"line": 0,
+"key": false,
+"start": 171.12,
+"end": 171.28
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 171.28,
+"end": 171.56
+},
+{
+"text": "down.",
+"line": 0,
+"key": false,
+"start": 171.56,
+"end": 172.16
+}
+]
+},
+{
+"plain": "Just let go of the lift and let | gravity do the work.",
+"start": 172.16,
+"end": 175.6,
+"words": [
+{
+"text": "Just",
+"line": 0,
+"key": false,
+"start": 172.16,
+"end": 172.48
+},
+{
+"text": "let",
+"line": 0,
+"key": false,
+"start": 172.48,
+"end": 172.72
+},
+{
+"text": "go",
+"line": 0,
+"key": false,
+"start": 172.72,
+"end": 172.88
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 172.88,
+"end": 173.04
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 173.04,
+"end": 173.28
+},
+{
+"text": "lift",
+"line": 0,
+"key": false,
+"start": 173.28,
+"end": 173.52
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 173.52,
+"end": 173.76
+},
+{
+"text": "let",
+"line": 0,
+"key": false,
+"start": 173.76,
+"end": 173.92000000000002
+},
+{
+"text": "gravity",
+"line": 1,
+"key": false,
+"start": 173.92000000000002,
+"end": 174.48
+},
+{
+"text": "do",
+"line": 1,
+"key": false,
+"start": 174.48,
+"end": 174.64
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 174.64,
+"end": 174.88
+},
+{
+"text": "work.",
+"line": 1,
+"key": false,
+"start": 174.88,
+"end": 175.6
+}
+]
+},
+{
+"plain": "If your grip is loose, the stick will | bounce back up on its own.",
+"start": 175.6,
+"end": 179.64,
+"words": [
+{
+"text": "If",
+"line": 0,
+"key": false,
+"start": 175.6,
+"end": 175.76
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 175.76,
+"end": 175.88
+},
+{
+"text": "grip",
+"line": 0,
+"key": false,
+"start": 175.88,
+"end": 176.16
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 176.16,
+"end": 176.32
+},
+{
+"text": "loose,",
+"line": 0,
+"key": false,
+"start": 176.32,
+"end": 176.96
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 176.96,
+"end": 177.12
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 177.12,
+"end": 177.48
+},
+{
+"text": "will",
+"line": 0,
+"key": false,
+"start": 177.48,
+"end": 177.68
+},
+{
+"text": "bounce",
+"line": 1,
+"key": false,
+"start": 177.68,
+"end": 178.12
+},
+{
+"text": "back",
+"line": 1,
+"key": false,
+"start": 178.12,
+"end": 178.32
+},
+{
+"text": "up",
+"line": 1,
+"key": false,
+"start": 178.32,
+"end": 178.44
+},
+{
+"text": "on",
+"line": 1,
+"key": false,
+"start": 178.44,
+"end": 178.56
+},
+{
+"text": "its",
+"line": 1,
+"key": false,
+"start": 178.56,
+"end": 179.07999999999998
+},
+{
+"text": "own.",
+"line": 1,
+"key": false,
+"start": 179.07999999999998,
+"end": 179.64
+}
+]
+},
+{
+"plain": "That bounce is called rebound, and it's | what makes drumming feel easy.",
+"start": 179.64,
+"end": 184.08,
+"words": [
+{
+"text": "That",
+"line": 0,
+"key": false,
+"start": 179.64,
+"end": 179.84
+},
+{
+"text": "bounce",
+"line": 0,
+"key": false,
+"start": 179.84,
+"end": 180.16
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 180.16,
+"end": 180.44
+},
+{
+"text": "called",
+"line": 0,
+"key": false,
+"start": 180.44,
+"end": 180.72
+},
+{
+"text": "rebound,",
+"line": 0,
+"key": true,
+"start": 180.72,
+"end": 181.57
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 181.57,
+"end": 181.64
+},
+{
+"text": "it's",
+"line": 0,
+"key": false,
+"start": 181.64,
+"end": 181.84
+},
+{
+"text": "what",
+"line": 1,
+"key": false,
+"start": 181.84,
+"end": 182.04
+},
+{
+"text": "makes",
+"line": 1,
+"key": false,
+"start": 182.04,
+"end": 182.24
+},
+{
+"text": "drumming",
+"line": 1,
+"key": false,
+"start": 182.24,
+"end": 182.88
+},
+{
+"text": "feel",
+"line": 1,
+"key": false,
+"start": 182.88,
+"end": 183.12
+},
+{
+"text": "easy.",
+"line": 1,
+"key": false,
+"start": 183.12,
+"end": 184.08
+}
+]
+},
+{
+"plain": "If the stick just thuds and stops, | you're holding it too tight.",
+"start": 184.08,
+"end": 188.28,
+"words": [
+{
+"text": "If",
+"line": 0,
+"key": false,
+"start": 184.08,
+"end": 184.24
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 184.24,
+"end": 184.48
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 184.48,
+"end": 184.72
+},
+{
+"text": "just",
+"line": 0,
+"key": false,
+"start": 184.72,
+"end": 185.04
+},
+{
+"text": "thuds",
+"line": 0,
+"key": false,
+"start": 185.04,
+"end": 185.48
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 185.48,
+"end": 185.68
+},
+{
+"text": "stops,",
+"line": 0,
+"key": false,
+"start": 185.68,
+"end": 186.4
+},
+{
+"text": "you're",
+"line": 1,
+"key": false,
+"start": 186.4,
+"end": 186.72
+},
+{
+"text": "holding",
+"line": 1,
+"key": false,
+"start": 186.72,
+"end": 186.96
+},
+{
+"text": "it",
+"line": 1,
+"key": false,
+"start": 186.96,
+"end": 187.12
+},
+{
+"text": "too",
+"line": 1,
+"key": false,
+"start": 187.12,
+"end": 187.72
+},
+{
+"text": "tight.",
+"line": 1,
+"key": true,
+"start": 187.72,
+"end": 188.28
+}
+]
+},
+{
+"plain": "Relax your fingers and try again.",
+"start": 188.28,
+"end": 190.88,
+"words": [
+{
+"text": "Relax",
+"line": 0,
+"key": false,
+"start": 188.28,
+"end": 188.72
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 188.72,
+"end": 188.84
+},
+{
+"text": "fingers",
+"line": 0,
+"key": false,
+"start": 188.84,
+"end": 189.36
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 189.36,
+"end": 189.52
+},
+{
+"text": "try",
+"line": 0,
+"key": false,
+"start": 189.52,
+"end": 190.28
+},
+{
+"text": "again.",
+"line": 0,
+"key": false,
+"start": 190.28,
+"end": 190.88
+}
+]
+},
+{
+"plain": "Once you can feel the bounce, try a few | slow taps with one hand at a time.",
+"start": 190.88,
+"end": 195.79,
+"words": [
+{
+"text": "Once",
+"line": 0,
+"key": false,
+"start": 190.88,
+"end": 191.08
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 191.08,
+"end": 191.2
+},
+{
+"text": "can",
+"line": 0,
+"key": false,
+"start": 191.2,
+"end": 191.44
+},
+{
+"text": "feel",
+"line": 0,
+"key": false,
+"start": 191.44,
+"end": 191.68
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 191.68,
+"end": 192.08
+},
+{
+"text": "bounce,",
+"line": 0,
+"key": false,
+"start": 192.08,
+"end": 192.48
+},
+{
+"text": "try",
+"line": 0,
+"key": false,
+"start": 192.48,
+"end": 192.72
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 192.72,
+"end": 192.88
+},
+{
+"text": "few",
+"line": 0,
+"key": false,
+"start": 192.88,
+"end": 193.2
+},
+{
+"text": "slow",
+"line": 1,
+"key": false,
+"start": 193.2,
+"end": 193.6
+},
+{
+"text": "taps",
+"line": 1,
+"key": false,
+"start": 193.6,
+"end": 193.9
+},
+{
+"text": "with",
+"line": 1,
+"key": false,
+"start": 193.9,
+"end": 194.2
+},
+{
+"text": "one",
+"line": 1,
+"key": false,
+"start": 194.2,
+"end": 194.44
+},
+{
+"text": "hand",
+"line": 1,
+"key": false,
+"start": 194.44,
+"end": 194.74
+},
+{
+"text": "at",
+"line": 1,
+"key": false,
+"start": 194.74,
+"end": 194.94
+},
+{
+"text": "a",
+"line": 1,
+"key": false,
+"start": 194.94,
+"end": 195.09
+},
+{
+"text": "time.",
+"line": 1,
+"key": false,
+"start": 195.09,
+"end": 195.79
+}
+]
+},
+{
+"plain": "Let the stick do most of the work.",
+"start": 195.79,
+"end": 198.27,
+"words": [
+{
+"text": "Let",
+"line": 0,
+"key": false,
+"start": 195.79,
+"end": 196.04
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 196.04,
+"end": 196.28
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 196.28,
+"end": 196.63
+},
+{
+"text": "do",
+"line": 0,
+"key": false,
+"start": 196.63,
+"end": 196.82999999999998
+},
+{
+"text": "most",
+"line": 0,
+"key": false,
+"start": 196.82999999999998,
+"end": 197.13
+},
+{
+"text": "of",
+"line": 0,
+"key": false,
+"start": 197.13,
+"end": 197.32999999999998
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 197.32999999999998,
+"end": 197.57999999999998
+},
+{
+"text": "work.",
+"line": 0,
+"key": false,
+"start": 197.57999999999998,
+"end": 198.27
+}
+]
+},
+{
+"plain": "Let's look at five mistakes almost | every beginner makes.",
+"start": 198.27,
+"end": 201.85,
+"words": [
+{
+"text": "Let's",
+"line": 0,
+"key": false,
+"start": 198.27,
+"end": 198.57
+},
+{
+"text": "look",
+"line": 0,
+"key": false,
+"start": 198.57,
+"end": 198.87
+},
+{
+"text": "at",
+"line": 0,
+"key": false,
+"start": 198.87,
+"end": 199.07
+},
+{
+"text": "five",
+"line": 0,
+"key": false,
+"start": 199.07,
+"end": 199.37
+},
+{
+"text": "mistakes",
+"line": 0,
+"key": false,
+"start": 199.37,
+"end": 199.86
+},
+{
+"text": "almost",
+"line": 0,
+"key": false,
+"start": 199.86,
+"end": 200.26
+},
+{
+"text": "every",
+"line": 1,
+"key": false,
+"start": 200.26,
+"end": 200.61
+},
+{
+"text": "beginner",
+"line": 1,
+"key": false,
+"start": 200.61,
+"end": 201.1
+},
+{
+"text": "makes.",
+"line": 1,
+"key": false,
+"start": 201.1,
+"end": 201.85
+}
+]
+},
+{
+"plain": "Number one. The death grip.",
+"start": 201.85,
+"end": 204.19,
+"words": [
+{
+"text": "Number",
+"line": 0,
+"key": false,
+"start": 201.85,
+"end": 202.25
+},
+{
+"text": "one.",
+"line": 0,
+"key": false,
+"start": 202.25,
+"end": 202.9
+},
+{
+"text": "The",
+"line": 0,
+"key": false,
+"start": 202.9,
+"end": 203.14
+},
+{
+"text": "death",
+"line": 0,
+"key": true,
+"start": 203.14,
+"end": 203.49
+},
+{
+"text": "grip.",
+"line": 0,
+"key": false,
+"start": 203.49,
+"end": 204.19
+}
+]
+},
+{
+"plain": "Squeezing the stick as hard as you can.",
+"start": 204.19,
+"end": 206.92000000000002,
+"words": [
+{
+"text": "Squeezing",
+"line": 0,
+"key": false,
+"start": 204.19,
+"end": 204.73
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 204.73,
+"end": 204.98
+},
+{
+"text": "stick",
+"line": 0,
+"key": false,
+"start": 204.98,
+"end": 205.32999999999998
+},
+{
+"text": "as",
+"line": 0,
+"key": false,
+"start": 205.32999999999998,
+"end": 205.53
+},
+{
+"text": "hard",
+"line": 0,
+"key": false,
+"start": 205.53,
+"end": 205.82999999999998
+},
+{
+"text": "as",
+"line": 0,
+"key": false,
+"start": 205.82999999999998,
+"end": 206.03
+},
+{
+"text": "you",
+"line": 0,
+"key": false,
+"start": 206.03,
+"end": 206.28
+},
+{
+"text": "can.",
+"line": 0,
+"key": false,
+"start": 206.28,
+"end": 206.92000000000002
+}
+]
+},
+{
+"plain": "The fix is to hold it like | that small bird.",
+"start": 206.92000000000002,
+"end": 209.95,
+"words": [
+{
+"text": "The",
+"line": 0,
+"key": false,
+"start": 206.92000000000002,
+"end": 207.17000000000002
+},
+{
+"text": "fix",
+"line": 0,
+"key": false,
+"start": 207.17000000000002,
+"end": 207.42000000000002
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 207.42000000000002,
+"end": 207.62
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 207.62,
+"end": 207.81
+},
+{
+"text": "hold",
+"line": 0,
+"key": false,
+"start": 207.81,
+"end": 208.11
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 208.11,
+"end": 208.31
+},
+{
+"text": "like",
+"line": 0,
+"key": false,
+"start": 208.31,
+"end": 208.61
+},
+{
+"text": "that",
+"line": 1,
+"key": false,
+"start": 208.61,
+"end": 208.91
+},
+{
+"text": "small",
+"line": 1,
+"key": false,
+"start": 208.91,
+"end": 209.26
+},
+{
+"text": "bird.",
+"line": 1,
+"key": true,
+"start": 209.26,
+"end": 209.95
+}
+]
+},
+{
+"plain": "Number two. Pressing your thumb | down on top of the stick.",
+"start": 209.95,
+"end": 214.07999999999998,
+"words": [
+{
+"text": "Number",
+"line": 0,
+"key": false,
+"start": 209.95,
+"end": 210.35
+},
+{
+"text": "two.",
+"line": 0,
+"key": false,
+"start": 210.35,
+"end": 211.0
+},
+{
+"text": "Pressing",
+"line": 0,
+"key": false,
+"start": 211.0,
+"end": 211.49
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 211.49,
+"end": 211.79
+},
+{
+"text": "thumb",
+"line": 0,
+"key": false,
+"start": 211.79,
+"end": 212.14
+},
+{
+"text": "down",
+"line": 1,
+"key": false,
+"start": 212.14,
+"end": 212.44
+},
+{
+"text": "on",
+"line": 1,
+"key": false,
+"start": 212.44,
+"end": 212.64
+},
+{
+"text": "top",
+"line": 1,
+"key": false,
+"start": 212.64,
+"end": 212.88
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 212.88,
+"end": 213.07999999999998
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 213.07999999999998,
+"end": 213.32999999999998
+},
+{
+"text": "stick.",
+"line": 1,
+"key": false,
+"start": 213.32999999999998,
+"end": 214.07999999999998
+}
+]
+},
+{
+"plain": "Keep your thumb along the side, | and let it pinch lightly.",
+"start": 214.07999999999998,
+"end": 218.0,
+"words": [
+{
+"text": "Keep",
+"line": 0,
+"key": false,
+"start": 214.07999999999998,
+"end": 214.38
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 214.38,
+"end": 214.68
+},
+{
+"text": "thumb",
+"line": 0,
+"key": false,
+"start": 214.68,
+"end": 215.02
+},
+{
+"text": "along",
+"line": 0,
+"key": false,
+"start": 215.02,
+"end": 215.37
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 215.37,
+"end": 215.62
+},
+{
+"text": "side,",
+"line": 0,
+"key": false,
+"start": 215.62,
+"end": 216.12
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 216.12,
+"end": 216.36
+},
+{
+"text": "let",
+"line": 1,
+"key": false,
+"start": 216.36,
+"end": 216.61
+},
+{
+"text": "it",
+"line": 1,
+"key": false,
+"start": 216.61,
+"end": 216.81
+},
+{
+"text": "pinch",
+"line": 1,
+"key": false,
+"start": 216.81,
+"end": 217.16
+},
+{
+"text": "lightly.",
+"line": 1,
+"key": false,
+"start": 217.16,
+"end": 218.0
+}
+]
+},
+{
+"plain": "Number three. Holding the | stick at the very end.",
+"start": 218.0,
+"end": 221.57999999999998,
+"words": [
+{
+"text": "Number",
+"line": 0,
+"key": false,
+"start": 218.0,
+"end": 218.4
+},
+{
+"text": "three.",
+"line": 0,
+"key": false,
+"start": 218.4,
+"end": 219.15
+},
+{
+"text": "Holding",
+"line": 0,
+"key": false,
+"start": 219.15,
+"end": 219.59
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 219.59,
+"end": 219.84
+},
+{
+"text": "stick",
+"line": 1,
+"key": false,
+"start": 219.84,
+"end": 220.19
+},
+{
+"text": "at",
+"line": 1,
+"key": false,
+"start": 220.19,
+"end": 220.39
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 220.39,
+"end": 220.64
+},
+{
+"text": "very",
+"line": 1,
+"key": false,
+"start": 220.64,
+"end": 220.94
+},
+{
+"text": "end.",
+"line": 1,
+"key": false,
+"start": 220.94,
+"end": 221.57999999999998
+}
+]
+},
+{
+"plain": "This makes it wobbly and hard to control.",
+"start": 221.57999999999998,
+"end": 224.42000000000002,
+"words": [
+{
+"text": "This",
+"line": 0,
+"key": false,
+"start": 221.57999999999998,
+"end": 221.88
+},
+{
+"text": "makes",
+"line": 0,
+"key": false,
+"start": 221.88,
+"end": 222.23
+},
+{
+"text": "it",
+"line": 0,
+"key": false,
+"start": 222.23,
+"end": 222.43
+},
+{
+"text": "wobbly",
+"line": 0,
+"key": false,
+"start": 222.43,
+"end": 222.82999999999998
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 222.82999999999998,
+"end": 223.07
+},
+{
+"text": "hard",
+"line": 0,
+"key": false,
+"start": 223.07,
+"end": 223.37
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 223.37,
+"end": 223.57
+},
+{
+"text": "control.",
+"line": 0,
+"key": false,
+"start": 223.57,
+"end": 224.42000000000002
+}
+]
+},
+{
+"plain": "Go back to that balance point, | about a third of the way up.",
+"start": 224.42000000000002,
+"end": 228.54,
+"words": [
+{
+"text": "Go",
+"line": 0,
+"key": false,
+"start": 224.42000000000002,
+"end": 224.62
+},
+{
+"text": "back",
+"line": 0,
+"key": false,
+"start": 224.62,
+"end": 224.91
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 224.91,
+"end": 225.11
+},
+{
+"text": "that",
+"line": 0,
+"key": false,
+"start": 225.11,
+"end": 225.41
+},
+{
+"text": "balance",
+"line": 0,
+"key": true,
+"start": 225.41,
+"end": 225.86
+},
+{
+"text": "point,",
+"line": 0,
+"key": false,
+"start": 225.86,
+"end": 226.41
+},
+{
+"text": "about",
+"line": 1,
+"key": false,
+"start": 226.41,
+"end": 226.75
+},
+{
+"text": "a",
+"line": 1,
+"key": false,
+"start": 226.75,
+"end": 226.9
+},
+{
+"text": "third",
+"line": 1,
+"key": false,
+"start": 226.9,
+"end": 227.25
+},
+{
+"text": "of",
+"line": 1,
+"key": false,
+"start": 227.25,
+"end": 227.45
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 227.45,
+"end": 227.7
+},
+{
+"text": "way",
+"line": 1,
+"key": false,
+"start": 227.7,
+"end": 227.95
+},
+{
+"text": "up.",
+"line": 1,
+"key": false,
+"start": 227.95,
+"end": 228.54
+}
+]
+},
+{
+"plain": "Number four. Fingers sticking | out, away from the stick.",
+"start": 228.54,
+"end": 232.62,
+"words": [
+{
+"text": "Number",
+"line": 0,
+"key": false,
+"start": 228.54,
+"end": 228.94
+},
+{
+"text": "four.",
+"line": 0,
+"key": false,
+"start": 228.94,
+"end": 229.64
+},
+{
+"text": "Fingers",
+"line": 0,
+"key": false,
+"start": 229.64,
+"end": 230.07999999999998
+},
+{
+"text": "sticking",
+"line": 0,
+"key": false,
+"start": 230.07999999999998,
+"end": 230.57999999999998
+},
+{
+"text": "out,",
+"line": 1,
+"key": false,
+"start": 230.57999999999998,
+"end": 231.03
+},
+{
+"text": "away",
+"line": 1,
+"key": false,
+"start": 231.03,
+"end": 231.32
+},
+{
+"text": "from",
+"line": 1,
+"key": false,
+"start": 231.32,
+"end": 231.62
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 231.62,
+"end": 231.87
+},
+{
+"text": "stick.",
+"line": 1,
+"key": false,
+"start": 231.87,
+"end": 232.62
+}
+]
+},
+{
+"plain": "Keep them curled and resting on it.",
+"start": 232.62,
+"end": 235.1,
+"words": [
+{
+"text": "Keep",
+"line": 0,
+"key": false,
+"start": 232.62,
+"end": 232.92000000000002
+},
+{
+"text": "them",
+"line": 0,
+"key": false,
+"start": 232.92000000000002,
+"end": 233.21
+},
+{
+"text": "curled",
+"line": 0,
+"key": false,
+"start": 233.21,
+"end": 233.61
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 233.61,
+"end": 233.86
+},
+{
+"text": "resting",
+"line": 0,
+"key": false,
+"start": 233.86,
+"end": 234.31
+},
+{
+"text": "on",
+"line": 0,
+"key": false,
+"start": 234.31,
+"end": 234.51
+},
+{
+"text": "it.",
+"line": 0,
+"key": false,
+"start": 234.51,
+"end": 235.1
+}
+]
+},
+{
+"plain": "And number five. Tense | shoulders and stiff wrists.",
+"start": 235.1,
+"end": 238.73,
+"words": [
+{
+"text": "And",
+"line": 0,
+"key": false,
+"start": 235.1,
+"end": 235.35
+},
+{
+"text": "number",
+"line": 0,
+"key": false,
+"start": 235.35,
+"end": 235.75
+},
+{
+"text": "five.",
+"line": 0,
+"key": false,
+"start": 235.75,
+"end": 236.44
+},
+{
+"text": "Tense",
+"line": 0,
+"key": false,
+"start": 236.44,
+"end": 236.79
+},
+{
+"text": "shoulders",
+"line": 1,
+"key": false,
+"start": 236.79,
+"end": 237.34
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 237.34,
+"end": 237.59
+},
+{
+"text": "stiff",
+"line": 1,
+"key": false,
+"start": 237.59,
+"end": 237.94
+},
+{
+"text": "wrists.",
+"line": 1,
+"key": false,
+"start": 237.94,
+"end": 238.73
+}
+]
+},
+{
+"plain": "Take a breath, drop your shoulders, and | shake out your hands before you play.",
+"start": 238.73,
+"end": 243.95,
+"words": [
+{
+"text": "Take",
+"line": 0,
+"key": false,
+"start": 238.73,
+"end": 239.03
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 239.03,
+"end": 239.18
+},
+{
+"text": "breath,",
+"line": 0,
+"key": false,
+"start": 239.18,
+"end": 239.78
+},
+{
+"text": "drop",
+"line": 0,
+"key": false,
+"start": 239.78,
+"end": 240.07
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 240.07,
+"end": 240.37
+},
+{
+"text": "shoulders,",
+"line": 0,
+"key": false,
+"start": 240.37,
+"end": 241.12
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 241.12,
+"end": 241.37
+},
+{
+"text": "shake",
+"line": 1,
+"key": false,
+"start": 241.37,
+"end": 241.71
+},
+{
+"text": "out",
+"line": 1,
+"key": false,
+"start": 241.71,
+"end": 241.96
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 241.96,
+"end": 242.26
+},
+{
+"text": "hands",
+"line": 1,
+"key": false,
+"start": 242.26,
+"end": 242.61
+},
+{
+"text": "before",
+"line": 1,
+"key": false,
+"start": 242.61,
+"end": 243.01
+},
+{
+"text": "you",
+"line": 1,
+"key": false,
+"start": 243.01,
+"end": 243.25
+},
+{
+"text": "play.",
+"line": 1,
+"key": false,
+"start": 243.25,
+"end": 243.95
+}
+]
+},
+{
+"plain": "Stick with me for one more | minute, pun intended.",
+"start": 243.95,
+"end": 247.33,
+"words": [
+{
+"text": "Stick",
+"line": 0,
+"key": false,
+"start": 243.95,
+"end": 244.3
+},
+{
+"text": "with",
+"line": 0,
+"key": false,
+"start": 244.3,
+"end": 244.6
+},
+{
+"text": "me",
+"line": 0,
+"key": false,
+"start": 244.6,
+"end": 244.79
+},
+{
+"text": "for",
+"line": 0,
+"key": false,
+"start": 244.79,
+"end": 245.04
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 245.04,
+"end": 245.29
+},
+{
+"text": "more",
+"line": 0,
+"key": false,
+"start": 245.29,
+"end": 245.59
+},
+{
+"text": "minute,",
+"line": 1,
+"key": false,
+"start": 245.59,
+"end": 246.19
+},
+{
+"text": "pun",
+"line": 1,
+"key": false,
+"start": 246.19,
+"end": 246.44
+},
+{
+"text": "intended.",
+"line": 1,
+"key": false,
+"start": 246.44,
+"end": 247.33
+}
+]
+},
+{
+"plain": "Your bonus is next.",
+"start": 247.33,
+"end": 248.87,
+"words": [
+{
+"text": "Your",
+"line": 0,
+"key": false,
+"start": 247.33,
+"end": 247.63
+},
+{
+"text": "bonus",
+"line": 0,
+"key": true,
+"start": 247.63,
+"end": 247.98
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 247.98,
+"end": 248.18
+},
+{
+"text": "next.",
+"line": 0,
+"key": false,
+"start": 248.18,
+"end": 248.87
+}
+]
+},
+{
+"plain": "You stuck around, pun intended, so here's | your bonus: two last secret tips.",
+"start": 248.87,
+"end": 254.04,
+"words": [
+{
+"text": "You",
+"line": 0,
+"key": false,
+"start": 248.87,
+"end": 249.12
+},
+{
+"text": "stuck",
+"line": 0,
+"key": false,
+"start": 249.12,
+"end": 249.47
+},
+{
+"text": "around,",
+"line": 0,
+"key": false,
+"start": 249.47,
+"end": 250.06
+},
+{
+"text": "pun",
+"line": 0,
+"key": false,
+"start": 250.06,
+"end": 250.31
+},
+{
+"text": "intended,",
+"line": 0,
+"key": false,
+"start": 250.31,
+"end": 251.01
+},
+{
+"text": "so",
+"line": 0,
+"key": false,
+"start": 251.01,
+"end": 251.21
+},
+{
+"text": "here's",
+"line": 0,
+"key": false,
+"start": 251.21,
+"end": 251.56
+},
+{
+"text": "your",
+"line": 1,
+"key": false,
+"start": 251.56,
+"end": 251.85
+},
+{
+"text": "bonus:",
+"line": 1,
+"key": true,
+"start": 251.85,
+"end": 252.4
+},
+{
+"text": "two",
+"line": 1,
+"key": false,
+"start": 252.4,
+"end": 252.65
+},
+{
+"text": "last",
+"line": 1,
+"key": false,
+"start": 252.65,
+"end": 252.95
+},
+{
+"text": "secret",
+"line": 1,
+"key": false,
+"start": 252.95,
+"end": 253.34
+},
+{
+"text": "tips.",
+"line": 1,
+"key": false,
+"start": 253.34,
+"end": 254.04
+}
+]
+},
+{
+"plain": "Tip one is your daily practice.",
+"start": 254.04,
+"end": 256.28,
+"words": [
+{
+"text": "Tip",
+"line": 0,
+"key": false,
+"start": 254.04,
+"end": 254.29
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 254.29,
+"end": 254.54
+},
+{
+"text": "is",
+"line": 0,
+"key": false,
+"start": 254.54,
+"end": 254.74
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 254.74,
+"end": 255.03
+},
+{
+"text": "daily",
+"line": 0,
+"key": false,
+"start": 255.03,
+"end": 255.38
+},
+{
+"text": "practice.",
+"line": 0,
+"key": false,
+"start": 255.38,
+"end": 256.28
+}
+]
+},
+{
+"plain": "Set a timer for one minute.",
+"start": 256.28,
+"end": 258.31,
+"words": [
+{
+"text": "Set",
+"line": 0,
+"key": false,
+"start": 256.28,
+"end": 256.52
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 256.52,
+"end": 256.68
+},
+{
+"text": "timer",
+"line": 0,
+"key": false,
+"start": 256.68,
+"end": 257.02
+},
+{
+"text": "for",
+"line": 0,
+"key": false,
+"start": 257.02,
+"end": 257.27
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 257.27,
+"end": 257.52
+},
+{
+"text": "minute.",
+"line": 0,
+"key": false,
+"start": 257.52,
+"end": 258.31
+}
+]
+},
+{
+"plain": "Tap slowly, right, left, right, left, | and count one, two, one, two.",
+"start": 258.31,
+"end": 263.83,
+"words": [
+{
+"text": "Tap",
+"line": 0,
+"key": false,
+"start": 258.31,
+"end": 258.56
+},
+{
+"text": "slowly,",
+"line": 0,
+"key": false,
+"start": 258.56,
+"end": 259.16
+},
+{
+"text": "right,",
+"line": 0,
+"key": false,
+"start": 259.16,
+"end": 259.71
+},
+{
+"text": "left,",
+"line": 0,
+"key": false,
+"start": 259.71,
+"end": 260.2
+},
+{
+"text": "right,",
+"line": 0,
+"key": false,
+"start": 260.2,
+"end": 260.75
+},
+{
+"text": "left,",
+"line": 0,
+"key": false,
+"start": 260.75,
+"end": 261.25
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 261.25,
+"end": 261.5
+},
+{
+"text": "count",
+"line": 1,
+"key": false,
+"start": 261.5,
+"end": 261.84
+},
+{
+"text": "one,",
+"line": 1,
+"key": false,
+"start": 261.84,
+"end": 262.29
+},
+{
+"text": "two,",
+"line": 1,
+"key": false,
+"start": 262.29,
+"end": 262.74
+},
+{
+"text": "one,",
+"line": 1,
+"key": false,
+"start": 262.74,
+"end": 263.19
+},
+{
+"text": "two.",
+"line": 1,
+"key": false,
+"start": 263.19,
+"end": 263.83
+}
+]
+},
+{
+"plain": "Keep everything loose, and listen | for that nice bounce.",
+"start": 263.83,
+"end": 267.56,
+"words": [
+{
+"text": "Keep",
+"line": 0,
+"key": false,
+"start": 263.83,
+"end": 264.13
+},
+{
+"text": "everything",
+"line": 0,
+"key": false,
+"start": 264.13,
+"end": 264.73
+},
+{
+"text": "loose,",
+"line": 0,
+"key": false,
+"start": 264.73,
+"end": 265.27
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 265.27,
+"end": 265.52
+},
+{
+"text": "listen",
+"line": 0,
+"key": false,
+"start": 265.52,
+"end": 265.92
+},
+{
+"text": "for",
+"line": 1,
+"key": false,
+"start": 265.92,
+"end": 266.17
+},
+{
+"text": "that",
+"line": 1,
+"key": false,
+"start": 266.17,
+"end": 266.47
+},
+{
+"text": "nice",
+"line": 1,
+"key": false,
+"start": 266.47,
+"end": 266.76
+},
+{
+"text": "bounce.",
+"line": 1,
+"key": false,
+"start": 266.76,
+"end": 267.56
+}
+]
+},
+{
+"plain": "Tip two: do this once a day, | not once a week.",
+"start": 267.56,
+"end": 271.04,
+"words": [
+{
+"text": "Tip",
+"line": 0,
+"key": false,
+"start": 267.56,
+"end": 267.81
+},
+{
+"text": "two:",
+"line": 0,
+"key": false,
+"start": 267.81,
+"end": 268.26
+},
+{
+"text": "do",
+"line": 0,
+"key": false,
+"start": 268.26,
+"end": 268.45
+},
+{
+"text": "this",
+"line": 0,
+"key": false,
+"start": 268.45,
+"end": 268.75
+},
+{
+"text": "once",
+"line": 0,
+"key": false,
+"start": 268.75,
+"end": 269.05
+},
+{
+"text": "a",
+"line": 0,
+"key": false,
+"start": 269.05,
+"end": 269.2
+},
+{
+"text": "day,",
+"line": 0,
+"key": false,
+"start": 269.2,
+"end": 269.65
+},
+{
+"text": "not",
+"line": 1,
+"key": false,
+"start": 269.65,
+"end": 269.9
+},
+{
+"text": "once",
+"line": 1,
+"key": false,
+"start": 269.9,
+"end": 270.19
+},
+{
+"text": "a",
+"line": 1,
+"key": false,
+"start": 270.19,
+"end": 270.34
+},
+{
+"text": "week.",
+"line": 1,
+"key": false,
+"start": 270.34,
+"end": 271.04
+}
+]
+},
+{
+"plain": "A little every day beats one long session,",
+"start": 271.04,
+"end": 273.72,
+"words": [
+{
+"text": "A",
+"line": 0,
+"key": false,
+"start": 271.04,
+"end": 271.19
+},
+{
+"text": "little",
+"line": 0,
+"key": false,
+"start": 271.19,
+"end": 271.59
+},
+{
+"text": "every",
+"line": 0,
+"key": false,
+"start": 271.59,
+"end": 271.93
+},
+{
+"text": "day",
+"line": 0,
+"key": false,
+"start": 271.93,
+"end": 272.18
+},
+{
+"text": "beats",
+"line": 0,
+"key": false,
+"start": 272.18,
+"end": 272.53
+},
+{
+"text": "one",
+"line": 0,
+"key": false,
+"start": 272.53,
+"end": 272.78
+},
+{
+"text": "long",
+"line": 0,
+"key": false,
+"start": 272.78,
+"end": 273.08
+},
+{
+"text": "session,",
+"line": 0,
+"key": false,
+"start": 273.08,
+"end": 273.72
+}
+]
+},
+{
+"plain": "and your grip will start to | feel natural fast.",
+"start": 273.72,
+"end": 276.85,
+"words": [
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 273.72,
+"end": 273.97
+},
+{
+"text": "your",
+"line": 0,
+"key": false,
+"start": 273.97,
+"end": 274.27
+},
+{
+"text": "grip",
+"line": 0,
+"key": false,
+"start": 274.27,
+"end": 274.57
+},
+{
+"text": "will",
+"line": 0,
+"key": false,
+"start": 274.57,
+"end": 274.87
+},
+{
+"text": "start",
+"line": 0,
+"key": false,
+"start": 274.87,
+"end": 275.21
+},
+{
+"text": "to",
+"line": 0,
+"key": false,
+"start": 275.21,
+"end": 275.40999999999997
+},
+{
+"text": "feel",
+"line": 1,
+"key": false,
+"start": 275.40999999999997,
+"end": 275.71
+},
+{
+"text": "natural",
+"line": 1,
+"key": false,
+"start": 275.71,
+"end": 276.15999999999997
+},
+{
+"text": "fast.",
+"line": 1,
+"key": false,
+"start": 276.15999999999997,
+"end": 276.85
+}
+]
+},
+{
+"plain": "In the next video, we'll look at the drum | kit and what each piece does.",
+"start": 276.85,
+"end": 281.63,
+"words": [
+{
+"text": "In",
+"line": 0,
+"key": false,
+"start": 276.85,
+"end": 277.05
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 277.05,
+"end": 277.3
+},
+{
+"text": "next",
+"line": 0,
+"key": false,
+"start": 277.3,
+"end": 277.6
+},
+{
+"text": "video,",
+"line": 0,
+"key": false,
+"start": 277.6,
+"end": 278.15
+},
+{
+"text": "we'll",
+"line": 0,
+"key": false,
+"start": 278.15,
+"end": 278.44
+},
+{
+"text": "look",
+"line": 0,
+"key": false,
+"start": 278.44,
+"end": 278.74
+},
+{
+"text": "at",
+"line": 0,
+"key": false,
+"start": 278.74,
+"end": 278.94
+},
+{
+"text": "the",
+"line": 0,
+"key": false,
+"start": 278.94,
+"end": 279.19
+},
+{
+"text": "drum",
+"line": 0,
+"key": false,
+"start": 279.19,
+"end": 279.49
+},
+{
+"text": "kit",
+"line": 1,
+"key": false,
+"start": 279.49,
+"end": 279.74
+},
+{
+"text": "and",
+"line": 1,
+"key": false,
+"start": 279.74,
+"end": 279.99
+},
+{
+"text": "what",
+"line": 1,
+"key": false,
+"start": 279.99,
+"end": 280.28
+},
+{
+"text": "each",
+"line": 1,
+"key": false,
+"start": 280.28,
+"end": 280.58
+},
+{
+"text": "piece",
+"line": 1,
+"key": false,
+"start": 280.58,
+"end": 280.93
+},
+{
+"text": "does.",
+"line": 1,
+"key": false,
+"start": 280.93,
+"end": 281.63
+}
+]
+},
+{
+"plain": "If this helped, subscribe, and I'll | see you in the next lesson.",
+"start": 281.63,
+"end": 286.5,
+"words": [
+{
+"text": "If",
+"line": 0,
+"key": false,
+"start": 281.63,
+"end": 281.82
+},
+{
+"text": "this",
+"line": 0,
+"key": false,
+"start": 281.82,
+"end": 282.12
+},
+{
+"text": "helped,",
+"line": 0,
+"key": false,
+"start": 282.12,
+"end": 282.72
+},
+{
+"text": "subscribe,",
+"line": 0,
+"key": false,
+"start": 282.72,
+"end": 283.46
+},
+{
+"text": "and",
+"line": 0,
+"key": false,
+"start": 283.46,
+"end": 283.71
+},
+{
+"text": "I'll",
+"line": 0,
+"key": false,
+"start": 283.71,
+"end": 283.96
+},
+{
+"text": "see",
+"line": 1,
+"key": false,
+"start": 283.96,
+"end": 284.21
+},
+{
+"text": "you",
+"line": 1,
+"key": false,
+"start": 284.21,
+"end": 284.46
+},
+{
+"text": "in",
+"line": 1,
+"key": false,
+"start": 284.46,
+"end": 284.65999999999997
+},
+{
+"text": "the",
+"line": 1,
+"key": false,
+"start": 284.65999999999997,
+"end": 284.90999999999997
+},
+{
+"text": "next",
+"line": 1,
+"key": false,
+"start": 284.90999999999997,
+"end": 285.2
+},
+{
+"text": "lesson.",
+"line": 1,
+"key": false,
+"start": 285.2,
+"end": 286.5
+}
+]
+}
+]
