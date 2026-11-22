@@ -382,10 +382,10 @@ def sc_snare(ctx, t):      # 74.48 - 110.18
             hit = 0.0
             for k in [ttry, wt('bounce', 95), thear]:
                 if t >= k: hit = max(hit, 1 - clamp(abs(t - k - .12) / .18))
-            bx, by = 1330, 250
-            ang_hit = math.atan2(468 - bnc - by, 1010 - bx)
-            ang = ang_hit - 0.55 * (1 - hit)
-            stick(ctx, bx, by, ang, math.hypot(1010 - bx, 468 - by) - 22, 26, t=t)
+            # tip stays over the centre of the head: up in the air between hits, down onto the head on a hit
+            tx, ty = 1000, lerp(285, 468 - bnc, hit)
+            bx, by = 1330, lerp(200, 250, hit)
+            stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 22, 26, t=t)
             sfx(ctx, t, thear, "CRACK!", 1450, 400, 80, RED, -.1, 1.4); rings(ctx, 960, 480, t, thear)
         if t > tclap:
             for i in range(2):
