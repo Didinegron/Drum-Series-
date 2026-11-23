@@ -51,6 +51,7 @@ def background(ctx, t, tint=None):
 
 CAP = 62
 def captions(ctx, t):
+    if T_LOOP0 - .15 <= t < T_LOOP1: return        # no captions while the drum loop plays
     cue = None
     for c in CUES:
         if c["start"] <= t < c["end"] + .03: cue = c
@@ -936,10 +937,12 @@ if __name__ == "__main__":
     else:
         f0, f1, sc, out = int(sys.argv[2]), int(sys.argv[3]), float(sys.argv[4]), sys.argv[5]
         crf = sys.argv[6] if len(sys.argv) > 6 else "20"
+        ofps = int(sys.argv[7]) if len(sys.argv) > 7 else FPS      # e.g. 15 for previews (frame numbers stay in 30 fps units)
+        step = FPS // ofps
         w, h = int(W * sc), int(H * sc)
-        p = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "bgra", "-s", f"{w}x{h}", "-r", str(FPS), "-i", "-",
+        p = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "bgra", "-s", f"{w}x{h}", "-r", str(ofps), "-i", "-",
                               "-c:v", "libx264", "-preset", "veryfast", "-crf", crf, "-pix_fmt", "yuv420p", "-threads", "2", out], stdin=subprocess.PIPE)
-        for f in range(f0, f1):
+        for f in range(f0, f1, step):
             p.stdin.write(surface(f / FPS, sc).get_data())
             if f % 300 == 0: print(f"{out}: frame {f}", flush=True)
         p.stdin.close(); p.wait()
