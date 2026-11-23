@@ -20,24 +20,30 @@ for n, f in AUD.items():
         """time (s, from a) where the word gets loud = where a listener hears the beat"""
         seg = x[a:b]; hop = 80; r = np.sqrt((seg[:len(seg) // hop * hop].reshape(-1, hop) ** 2).mean(1))
         r = np.convolve(r, np.ones(3) / 3, "same"); k = int(np.argmax(r > .4 * r.max())); return k * hop / SR
-    segs = []
-    for i, w in enumerate(ws):
-        a = int((w["start"] - .025) * SR); b = int((ws[i + 1]["start"] - .025) * SR) if i < 7 else int((w["end"] + .12) * SR)
-        segs.append((a, b, loud_onset(a, b)))
+    # cut points = the quietest moment between two words (not the transcript times, which can clip a consonant)
+    hopq = int(.005 * SR)
+    def quietest(t0, t1):
+        a, b = int(t0 * SR), int(t1 * SR); seg = x[a:b]
+        r = np.sqrt((seg[:len(seg) // hopq * hopq].reshape(-1, hopq) ** 2).mean(1)); r = np.convolve(r, np.ones(3) / 3, "same")
+        return a + int(np.argmin(r)) * hopq
+    bounds = [int(max(0, ws[0]["start"] - .06) * SR)]
+    for k in range(7):
+        bounds.append(quietest(ws[k]["end"] - .05, ws[k + 1]["start"] + .05))
+    bounds.append(int((ws[7]["end"] + .12) * SR))
+    segs = [(bounds[k], bounds[k + 1], loud_onset(bounds[k], bounds[k + 1])) for k in range(8)]
     beats = [a / SR + o for a, b, o in segs]
     step = (beats[7] - beats[0]) / 7
-    cut = int((ws[7]["end"] + .12) * SR)                    # rebuild only the counting bar
+    cut = bounds[8]
     out = x.copy(); out[:cut] = 0
-    fade = int(.006 * SR)
+    fade = int(.012 * SR)
     prev_end = 0
-    for i, (w, (a, b, o)) in enumerate(zip(ws, segs)):
+    for k, (w, (a, b, o)) in enumerate(zip(ws, segs)):
         seg = x[a:b].copy()
-        beat = beats[0] + i * step                         # even grid, measured on the loud part of each word
-        g = int((beat - o) * SR)
-        if g < prev_end: seg = seg[prev_end - g:]; g = prev_end       # never overlap the previous word
-        if i < 7: seg = seg[:max(0, int((beats[0] + (i + 1) * step - .06) * SR) - g)]
         seg[:fade] *= np.linspace(0, 1, fade); seg[-fade:] *= np.linspace(1, 0, fade)
-        out[g:g + len(seg)] += seg[:len(out) - g]; prev_end = g + len(seg)
+        beat = beats[0] + k * step                         # even grid, measured on the loud part of each word
+        g = max(0, int((beat - o) * SR))
+        out[g:g + len(seg)] += seg[:len(out) - g]          # edges are quiet, so small overlaps just blend
+        prev_end = max(prev_end, g + len(seg))
         dur = min(w["end"] - w["start"], step - .05)
         w["start"] = round(beat - .04, 3); w["end"] = round(w["start"] + dur, 3)
     cut = max(cut, prev_end)
