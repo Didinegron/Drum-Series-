@@ -419,17 +419,17 @@ def ep3_kit(ctx, cx, cy, s, t, glow=None, sticks=True, faces=True, bursts=True):
     tom(ctx, -330, 150, .74, t, RED, m=.5 * hs)
     stand(ctx, -330, 215, 300, .9)
     if sticks:
-        # hi-hat (right hand): tip hovers above the top cymbal, comes down onto its top surface on each hit
-        d = strike('hihat', t); tx, ty = -540, lerp(-118, -52, d)
-        bx, by = -250, lerp(-330, -300, d)
-        stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
-        # snare (left hand): tip hovers above the head, lands on the middle of the top head
-        d = strike('snare', t); tx, ty = -310, lerp(10, 90, d)
-        bx, by = -40, lerp(-60, -30, d)
+        # hi-hat (right hand): straight down onto the top cymbal, between the hi-hat label side and the crash
+        d = strike('hihat', t); tx, ty = -590, lerp(-125, -52, d)
+        bx, by = -590, lerp(-400, -330, d)
+        stick(ctx, bx, by, math.pi / 2, ty - by - 16, 22, t=t)
+        # snare (left hand): comes in from the left, low (under the hi-hat), tip lands on the middle of the top head
+        d = strike('snare', t); tx, ty = -320, lerp(22, 92, d)
+        bx, by = -820, lerp(40, 55, d)
         stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
     ctx.restore()
     if bursts:
-        for p, word, x, y, c in (('kick', "BOOM!", 0, 300, ORANGE), ('snare', "CRACK!", -250, 330, RED), ('hihat', "TICK!", -560, -230, TEAL)):
+        for p, word, x, y, c in (('kick', "BOOM!", 0, 300, ORANGE), ('snare', "CRACK!", -250, 330, RED), ('hihat', "TICK!", -800, -170, TEAL)):
             ts = PIECE_T[p]; k = bisect.bisect_right(ts, t) - 1
             if k >= 0 and t - ts[k] < .45:
                 sfx(ctx, t, ts[k], word, cx + x * s, cy + y * s, 70 * s + 14, c, (-.08 if p == 'snare' else .07), .45)
