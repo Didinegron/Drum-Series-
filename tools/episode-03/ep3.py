@@ -171,7 +171,7 @@ def kick_side(ctx, x, y, t, press=0.0, sc=1.0):
     ellipse(ctx, -200, 15, 14, 165, lerpc(RED, NAVY, .25), NAVY, 5)
     for k in range(4): rrect(ctx, -185 + k * 45, -150, 14, 330, 4); fill_stroke(ctx, CHROME, NAVY, 2)
     # pedal frame + axle
-    ax, ay = hx + 55, fl - 120
+    ax, ay = hx + 75, fl - 95                 # axle low on the pedal frame
     line(ctx, ax - 10, fl, ax - 10, ay, DARK, 8)
     # footboard hinged at the heel (right); front end goes down when pressed
     heel = (ax + 190, fl - 8)
@@ -180,8 +180,8 @@ def kick_side(ctx, x, y, t, press=0.0, sc=1.0):
     capsule(ctx, heel[0], heel[1], fx, fy, 12, DARK, NAVY, 4)
     line(ctx, fx, fy, ax + 18, ay + 12, (0.4, 0.42, 0.5), 4)   # chain/strap
     # beater: rest leans back toward the drummer, press swings it forward into the head
-    a = lerp(0.55, -0.17, press)
-    L = 190
+    a = lerp(0.45, -0.39, press)               # pressed: ball lands on the CENTRE of the head
+    L = 108
     bxp, byp = ax + L * math.sin(a), ay - L * math.cos(a)
     line(ctx, ax, ay, bxp, byp, CHROME, 9); line(ctx, ax, ay, bxp, byp, NAVY, 2)
     circle(ctx, bxp, byp, 26, (1, .95, .9), NAVY, 5)
