@@ -552,9 +552,9 @@ def sc_plan(ctx, t):
     sx, sy = 820 - 330 * .82, 560 + 150 * .82         # snare centre on screen
     tr = wt('right', 51); th = wt('hi-hat,', 52)
     if t >= tr:   # RIGHT HAND / = HI-HAT: upper left, pointer line down to the hi-hat (creator's preferred version)
-        line(ctx, 290, 250, hx, hy - 20, WHITE, 6, .8 * clamp(prog(t, tr, .3)), dash=[14, 10])
-        label(ctx, "RIGHT HAND", 290, 250, 40, TEAL, WHITE, scale=pop(t, tr))
-        if t >= th: label(ctx, "= HI-HAT", 290, 320, 32, WHITE, NAVY, scale=pop(t, th))
+        line(ctx, 300, 440, hx - 40, hy - 10, WHITE, 6, .8 * clamp(prog(t, tr, .3)), dash=[14, 10])
+        label(ctx, "RIGHT HAND", 175, 430, 40, TEAL, WHITE, scale=pop(t, tr))
+        if t >= th: label(ctx, "= HI-HAT", 175, 498, 32, WHITE, NAVY, scale=pop(t, th))
     tl = wt('left', 53); ts = wt('snare,', 54)
     if t >= tl:   # LEFT HAND / = SNARE: to the left of the snare
         line(ctx, 335, sy + 10, sx - 100, sy + 5, WHITE, 6, .8 * clamp(prog(t, tl, .3)), dash=[14, 10])
