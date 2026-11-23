@@ -420,7 +420,7 @@ def ep3_kit(ctx, cx, cy, s, t, glow=None, sticks=True, faces=True, bursts=True):
     stand(ctx, -330, 215, 300, .9)
     if sticks:
         # hi-hat (right hand): tip hovers above the top cymbal, comes down onto its top surface on each hit
-        d = strike('hihat', t); tx, ty = -540, lerp(-150, -52, d)
+        d = strike('hihat', t); tx, ty = -540, lerp(-118, -52, d)
         bx, by = -250, lerp(-330, -300, d)
         stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
         # snare (left hand): tip hovers above the head, lands on the middle of the top head
@@ -547,17 +547,22 @@ def sc_plan(ctx, t):
         tk = wt(w, a)
         if t >= tk - .3: glow[p] = 1 if t < tleft else .4
     ep3_kit(ctx, 820, 560, .82, t, glow, bursts=False)
-    # limb stickers with pointer lines
-    for (w, a, txt, col, x, y, px, py) in (('right', 51, "RIGHT HAND", TEAL, 290, 250, 820 - 560 * .82, 560 - 60 * .82),
-                                           ('left', 53, "LEFT HAND", GREEN, 290, 470, 820 - 330 * .82, 560 + 90 * .82),
-                                           ('right', 55, "RIGHT FOOT", PINK, 1500, 860, 820, 560 + 230 * .82)):
-        tk = wt(w, a)
-        if t >= tk:
-            line(ctx, x, y, px, py, WHITE, 6, .8 * clamp(prog(t, tk, .3)), dash=[14, 10])
-            label(ctx, txt, x, y, 40, col, WHITE, scale=pop(t, tk))
-    for (w, a, txt, x, y) in (('hi-hat,', 52, "= HI-HAT", 290, 320), ('snare,', 54, "= SNARE", 290, 540), ('kick', 56, "= KICK PEDAL", 1500, 940)):
-        tk = wt(w, a)
-        if t >= tk: label(ctx, txt, x, y, 32, WHITE, NAVY, scale=pop(t, tk))
+    # limb stickers right next to their piece
+    hx, hy = 820 - 560 * .82, 560 - 40 * .82          # hi-hat centre on screen
+    sx, sy = 820 - 330 * .82, 560 + 150 * .82         # snare centre on screen
+    tr = wt('right', 51); th = wt('hi-hat,', 52)
+    if t >= tr:   # RIGHT HAND = HI-HAT: turned 90 degrees, standing right above the hi-hat
+        label(ctx, "RIGHT HAND = HI-HAT" if t >= th else "RIGHT HAND", hx - 125, hy - 105, 36, TEAL, WHITE, scale=pop(t, tr), rot=-math.pi / 2)
+    tl = wt('left', 53); ts = wt('snare,', 54)
+    if t >= tl:   # LEFT HAND / = SNARE: to the left of the snare
+        line(ctx, 335, sy + 10, sx - 100, sy + 5, WHITE, 6, .8 * clamp(prog(t, tl, .3)), dash=[14, 10])
+        label(ctx, "LEFT HAND", 215, sy + 10, 40, GREEN, WHITE, scale=pop(t, tl))
+        if t >= ts: label(ctx, "= SNARE", 215, sy + 78, 32, WHITE, NAVY, scale=pop(t, ts))
+    tf = wt('right', 55); tk = wt('kick', 56)
+    if t >= tf:
+        line(ctx, 1500, 860, 820, 560 + 230 * .82, WHITE, 6, .8 * clamp(prog(t, tf, .3)), dash=[14, 10])
+        label(ctx, "RIGHT FOOT", 1500, 860, 40, PINK, WHITE, scale=pop(t, tf))
+        if t >= tk: label(ctx, "= KICK PEDAL", 1500, 940, 32, WHITE, NAVY, scale=pop(t, tk))
     if t >= tleft:
         # left-foot inset: hi-hat pedal held DOWN -> cymbals closed
         p = pop(t, tleft)
