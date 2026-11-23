@@ -31,7 +31,7 @@ Episode list and status: `DRUM_SERIES_PLAN.md`. **Only work on the episode the c
 - Thumbnail: 1280x720, huge 2-line headline, mascot/kit on a burst, "EPISODE N" + "IN 5 MIN" pills.
 
 ## Audio, captions, ElevenLabs
-- Narration voice: **Roger - Laid-Back, Casual, Resonant**, voice_id `CwhRBWXzGAHq8TQ4Fs17`, model `eleven_v4` (ElevenLabs connector).
+- Narration voice: **Drum Channel Narrator** (the creator's own designed voice), voice_id `pOGS4nGBqPulBSkdAAlJ`, model `eleven_v4` (ElevenLabs connector). **Not** the stock "Roger" voice (`CwhRBWXzGAHq8TQ4Fs17`): Roger sounded wrong to the creator in Episode 3 (old Roger takes kept in `episode-03/audio/roger_takes/`).
 - I can generate narration directly with the ElevenLabs connector (creative_generate_speech) and download it.
 - Exact word timings: push the MP3 to this repo, attach it to an ElevenLabs flow by raw GitHub URL (creative_attach_reference_file), run creative_transcribe_audio (~1,800 credits per 5 min; ~140 per Short). Self-estimated timings drifted up to 2 s, so always use real transcription timings.
 - The ElevenLabs CDN host (`elevenlabsusercontent.com`) is allowed only in the personal cloud environment **"Drum Series"**; use that environment.
