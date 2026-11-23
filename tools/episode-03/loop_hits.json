@@ -1,0 +1,128 @@
+{
+ "t_ins": 219.38,
+ "gap": 5.0,
+ "bpm": 110,
+ "hits": [
+  {
+   "t": 219.63,
+   "col": 0,
+   "pieces": [
+    "hihat",
+    "kick"
+   ]
+  },
+  {
+   "t": 219.9027,
+   "col": 1,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 220.1755,
+   "col": 2,
+   "pieces": [
+    "hihat",
+    "snare"
+   ]
+  },
+  {
+   "t": 220.4482,
+   "col": 3,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 220.7209,
+   "col": 4,
+   "pieces": [
+    "hihat",
+    "kick"
+   ]
+  },
+  {
+   "t": 220.9936,
+   "col": 5,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 221.2664,
+   "col": 6,
+   "pieces": [
+    "hihat",
+    "snare"
+   ]
+  },
+  {
+   "t": 221.5391,
+   "col": 7,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 221.8118,
+   "col": 0,
+   "pieces": [
+    "hihat",
+    "kick"
+   ]
+  },
+  {
+   "t": 222.0845,
+   "col": 1,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 222.3573,
+   "col": 2,
+   "pieces": [
+    "hihat",
+    "snare"
+   ]
+  },
+  {
+   "t": 222.63,
+   "col": 3,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 222.9027,
+   "col": 4,
+   "pieces": [
+    "hihat",
+    "kick"
+   ]
+  },
+  {
+   "t": 223.1755,
+   "col": 5,
+   "pieces": [
+    "hihat"
+   ]
+  },
+  {
+   "t": 223.4482,
+   "col": 6,
+   "pieces": [
+    "hihat",
+    "snare"
+   ]
+  },
+  {
+   "t": 223.7209,
+   "col": 7,
+   "pieces": [
+    "hihat"
+   ]
+  }
+ ],
+ "total": 318.82
+}
