@@ -6,7 +6,9 @@ Episode list and status: `DRUM_SERIES_PLAN.md`. **Only work on the episode the c
 ## Status
 - Episode 1 (hold drumsticks): DONE (episode, 3 Shorts, thumbnail). Uses real photos/footage of the creator's hands.
 - Episode 2 (drum kit explained): DONE (4K episode, 3 Shorts, thumbnail, YouTube copy in `episode-02/youtube.md`). Fully animated.
-- Episode 3 (first rock beat): EPISODE DONE (4K rendered, 1080p in `episode-03/video/`). Still to do: 3 Shorts, thumbnail, YouTube copy.
+- Episode 3 (first rock beat): EPISODE DONE (4K rendered, 1080p in `episode-03/video/`), thumbnail DONE, Shorts 1 + 2 DONE (`episode-03/shorts/video/`).
+  Still to do: Short 3 (script approved in `episode-03/shorts/scripts.md`; ElevenLabs credits ran out: needs ~300 for narration + ~120 for word timings), YouTube copy.
+  Shorts code: `tools/episode-03/shorts/shorts3.py` (reuses ep3.py kit/chart). `even_count.py` re-spaces the spoken count onto an even beat (creator heard the TTS count as uneven/triplet-like): words are cut at the quiet gaps and aligned by their loud onset. Run it on every new Short/episode count. Word-timing runs cost ~120 credits per Short (the connector's estimate said ~7: don't trust it).
   Code: `tools/episode-03/` (`prep.py` adds a 5 s synthesized 110 BPM drum loop before "Listen to that!" and shifts timings; `make_captions.py`; `ep3.py`). Audio for video = `episode-03/audio/episode3_mix.mp3` (5:19).
   Creator-approved details: "who plays what" scene has its own stick placement (hi-hat stick straight down, snare stick from the left under the hi-hat); all other scenes use the upper-right sticks. Kick side view: beater hits the CENTRE of the head.
 
