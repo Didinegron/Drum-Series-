@@ -338,7 +338,7 @@ def col_at(b, t):
     return c
 
 # ---------- the beat chart ----------
-def beat_chart(ctx, cx, cy, t, s=1.0, rows_on=('hihat', 'snare', 'kick'), alpha=1.0, highlight_row=None, highlight_cols=(), show_limbs=True, follow=True):
+def beat_chart(ctx, cx, cy, t, s=1.0, rows_on=('hihat', 'snare', 'kick'), alpha=1.0, highlight_row=None, highlight_cols=(), show_limbs=True, follow=True, band=True):
     ctx.save(); ctx.translate(cx, cy); sscale(ctx, s, s)
     cw, rh, lw_ = 92, 104, 300
     w = lw_ + cw * 8 + 40; h = rh * 4 + 40
@@ -347,7 +347,7 @@ def beat_chart(ctx, cx, cy, t, s=1.0, rows_on=('hihat', 'snare', 'kick'), alpha=
     b = bar_at(t) if follow else None; cur = col_at(b, t) if b else -1
     lay = b["layer"] if b else set()
     # column highlight band for the current count
-    if cur >= 0:
+    if cur >= 0 and band:
         rrect(ctx, x0 + cur * cw + 4, y0 + 4, cw - 8, h - 48, 22); ctx.set_source_rgba(*YELLOW, .45 * alpha); ctx.fill()
     for c in highlight_cols:
         rrect(ctx, x0 + c * cw + 4, y0 + 4, cw - 8, h - 48, 22); ctx.set_source_rgba(*PINK, .35 * alpha); ctx.fill()
