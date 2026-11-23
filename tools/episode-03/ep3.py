@@ -398,7 +398,7 @@ def countin(ctx, t, x=960, y=330):
                 text(ctx, str(i + 1), x, y, 240, YELLOW, NAVY, lw=26, scale=lerp(1.6, 1, back(prog(t, q, .25))), alpha=1 - prog(t, nxt - .1, .1), rot=wob(t, 2, .05))
 
 # ---------- kit with closed hi-hat + sticks that land on the top heads ----------
-def ep3_kit(ctx, cx, cy, s, t, glow=None, sticks=True, faces=True, bursts=True):
+def ep3_kit(ctx, cx, cy, s, t, glow=None, sticks=True, faces=True, bursts=True, stick_style="classic"):
     glow = glow or {}
     hk, hs, hh = hit('kick', t), hit('snare', t), hit('hihat', t)
     def gl(p, x, y, r):
@@ -419,17 +419,26 @@ def ep3_kit(ctx, cx, cy, s, t, glow=None, sticks=True, faces=True, bursts=True):
     tom(ctx, -330, 150, .74, t, RED, m=.5 * hs)
     stand(ctx, -330, 215, 300, .9)
     if sticks:
-        # hi-hat (right hand): straight down onto the top cymbal, between the hi-hat label side and the crash
-        d = strike('hihat', t); tx, ty = -590, lerp(-125, -52, d)
-        bx, by = -590, lerp(-400, -330, d)
-        stick(ctx, bx, by, math.pi / 2, ty - by - 16, 22, t=t)
-        # snare (left hand): comes in from the left, low (under the hi-hat), tip lands on the middle of the top head
-        d = strike('snare', t); tx, ty = -320, lerp(22, 92, d)
-        bx, by = -820, lerp(40, 55, d)
-        stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
+        if stick_style == "plan":
+            # "who plays what" scene only: hi-hat stick straight down between the label and the crash,
+            # snare stick in from the left (above the LEFT HAND label, under the hi-hat)
+            d = strike('hihat', t); tx, ty = -590, lerp(-125, -52, d)
+            bx, by = -590, lerp(-400, -330, d)
+            stick(ctx, bx, by, math.pi / 2, ty - by - 16, 22, t=t)
+            d = strike('snare', t); tx, ty = -320, lerp(22, 92, d)
+            bx, by = -820, lerp(40, 55, d)
+            stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
+        else:
+            # all other scenes (approved look): both sticks come in from the upper right
+            d = strike('hihat', t); tx, ty = -540, lerp(-150, -52, d)
+            bx, by = -250, lerp(-330, -300, d)
+            stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
+            d = strike('snare', t); tx, ty = -310, lerp(10, 90, d)
+            bx, by = -40, lerp(-60, -30, d)
+            stick(ctx, bx, by, math.atan2(ty - by, tx - bx), math.hypot(tx - bx, ty - by) - 16, 22, t=t)
     ctx.restore()
     if bursts:
-        for p, word, x, y, c in (('kick', "BOOM!", 0, 300, ORANGE), ('snare', "CRACK!", -250, 330, RED), ('hihat', "TICK!", -800, -170, TEAL)):
+        for p, word, x, y, c in (('kick', "BOOM!", 0, 300, ORANGE), ('snare', "CRACK!", -250, 330, RED), ('hihat', "TICK!", -560, -230, TEAL)):
             ts = PIECE_T[p]; k = bisect.bisect_right(ts, t) - 1
             if k >= 0 and t - ts[k] < .45:
                 sfx(ctx, t, ts[k], word, cx + x * s, cy + y * s, 70 * s + 14, c, (-.08 if p == 'snare' else .07), .45)
@@ -546,7 +555,7 @@ def sc_plan(ctx, t):
     for p, w, a in (('hihat', 'hi-hat,', 52), ('snare', 'snare,', 54), ('kick', 'kick', 56)):
         tk = wt(w, a)
         if t >= tk - .3: glow[p] = 1 if t < tleft else .4
-    ep3_kit(ctx, 820, 560, .82, t, glow, bursts=False)
+    ep3_kit(ctx, 820, 560, .82, t, glow, bursts=False, stick_style="plan")
     # limb stickers right next to their piece
     hx, hy = 820 - 560 * .82, 560 - 40 * .82          # hi-hat centre on screen
     sx, sy = 820 - 330 * .82, 560 + 150 * .82         # snare centre on screen
