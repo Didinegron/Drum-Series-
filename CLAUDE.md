@@ -49,4 +49,4 @@ Episode list and status: `DRUM_SERIES_PLAN.md`. **Only work on the episode the c
 - Visual: animated beat grid / "light-up" pads per count, with the kit characters hitting in sync; right hand / left hand / right foot labels.
 - Real footage of the creator playing the beat (overhead + side) would fit; ask before planning.
 - Shorts ideas: "The 1-2-3-4 trick", "Add the boom", "Your first beat in 20 seconds".
-- Suggested workflow: write script → generate Roger narration → transcribe for timings → scene plan → stills → low-res preview → 4K.
+- Suggested workflow: write script → generate Drum Channel Narrator narration → transcribe for timings → scene plan → stills → low-res preview → 4K.
