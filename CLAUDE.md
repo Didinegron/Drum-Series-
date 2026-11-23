@@ -6,7 +6,9 @@ Episode list and status: `DRUM_SERIES_PLAN.md`. **Only work on the episode the c
 ## Status
 - Episode 1 (hold drumsticks): DONE (episode, 3 Shorts, thumbnail). Uses real photos/footage of the creator's hands.
 - Episode 2 (drum kit explained): DONE (4K episode, 3 Shorts, thumbnail, YouTube copy in `episode-02/youtube.md`). Fully animated.
-- **Next: Episode 3, "Your first rock beat in 5 minutes."** (It is 5 minutes, not 10.)
+- Episode 3 (first rock beat): EPISODE DONE (4K rendered, 1080p in `episode-03/video/`). Still to do: 3 Shorts, thumbnail, YouTube copy.
+  Code: `tools/episode-03/` (`prep.py` adds a 5 s synthesized 110 BPM drum loop before "Listen to that!" and shifts timings; `make_captions.py`; `ep3.py`). Audio for video = `episode-03/audio/episode3_mix.mp3` (5:19).
+  Creator-approved details: "who plays what" scene has its own stick placement (hi-hat stick straight down, snare stick from the left under the hi-hat); all other scenes use the upper-right sticks. Kick side view: beater hits the CENTRE of the head.
 
 ## The creator's preferences (learned the hard way)
 - **Never draw detailed hands/fingers.** Cartoon hands looked wrong. Use the creator's real photos/video for hand technique; for cartoon people use simple round fists (sleeve + ball) only.
